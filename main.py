@@ -81,7 +81,7 @@ if __name__ == '__main__':
     )
     parser.add_argument(
         "--image_folder",
-        help="book folder location",
+        help="image folder location",
         default="images",
     )
     parser.add_argument(
@@ -92,7 +92,7 @@ if __name__ == '__main__':
     )
     parser.add_argument(
         "--end_id",
-        help="start book id",
+        help="end book id",
         type=int,
         default=10,
     )
