@@ -1,4 +1,5 @@
 import os.path
+from pprint import pprint
 from urllib.parse import urlsplit, unquote, urljoin
 
 import requests
@@ -31,9 +32,17 @@ def get_book(book_id):
         "https://tululu.org",
         soup.find(class_="bookimage").find("img")["src"]
     )
+    texts = soup.find_all(class_="texts")
+    comments = [text.find(class_="black").text for text in texts]
+
+    parsed_genres = soup.find("span", class_="d_book").find_all("a")
+    genres = [d_book.text for d_book in parsed_genres]
+
     return {
         "file_name": f"{book_id}. {book_name}.txt",
-        "image_url": image_url
+        "image_url": image_url,
+        "comments": comments,
+        "genres": genres
     }
 
 
@@ -73,15 +82,17 @@ if __name__ == '__main__':
     for folder in [book_folder, image_folder]:
         os.makedirs(folder, exist_ok=True)
 
-    for index in range(1, 11):
+    for index in range(9, 10):
         book = get_book(index)
         if not book:
             continue
 
-        file_name = book.get("file_name")
-        os.makedirs(book_folder, exist_ok=True)
-        url = f"https://tululu.org/txt.php?id={index}"
-        download_txt(url, file_name, folder)
+        pprint(book)
 
-        os.makedirs(image_folder, exist_ok=True)
-        download_image(book.get("image_url"), folder=image_folder)
+        # file_name = book.get("file_name")
+        # os.makedirs(book_folder, exist_ok=True)
+        # url = f"https://tululu.org/txt.php?id={index}"
+        # download_txt(url, file_name, folder)
+        #
+        # os.makedirs(image_folder, exist_ok=True)
+        # download_image(book.get("image_url"), folder=image_folder)
