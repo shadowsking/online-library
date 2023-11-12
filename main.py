@@ -1,5 +1,4 @@
 import os.path
-from pprint import pprint
 from urllib.parse import urlsplit, unquote, urljoin
 
 import requests
@@ -12,7 +11,7 @@ def check_for_redirect(response):
         raise requests.HTTPError("The url has been redirected")
 
 
-def get_book(book_id):
+def parse_book_page(book_id):
     response = requests.get(f"https://tululu.org/b{book_id}/")
     response.raise_for_status()
     try:
@@ -82,17 +81,15 @@ if __name__ == '__main__':
     for folder in [book_folder, image_folder]:
         os.makedirs(folder, exist_ok=True)
 
-    for index in range(9, 10):
-        book = get_book(index)
+    for index in range(1, 10):
+        book = parse_book_page(index)
         if not book:
             continue
 
-        pprint(book)
+        file_name = book.get("file_name")
+        os.makedirs(book_folder, exist_ok=True)
+        url = f"https://tululu.org/txt.php?id={index}"
+        download_txt(url, file_name, folder)
 
-        # file_name = book.get("file_name")
-        # os.makedirs(book_folder, exist_ok=True)
-        # url = f"https://tululu.org/txt.php?id={index}"
-        # download_txt(url, file_name, folder)
-        #
-        # os.makedirs(image_folder, exist_ok=True)
-        # download_image(book.get("image_url"), folder=image_folder)
+        os.makedirs(image_folder, exist_ok=True)
+        download_image(book.get("image_url"), folder=image_folder)
