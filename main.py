@@ -42,7 +42,7 @@ def parse_book_page(content):
     }
 
 
-def download_txt(url, file_name, folder="books"):
+def download_txt(url, file_name, folder):
     response = requests.get(url)
     response.raise_for_status()
     try:
@@ -55,7 +55,7 @@ def download_txt(url, file_name, folder="books"):
         file.write(response.content)
 
 
-def download_image(url, folder="books"):
+def download_image(url, folder):
     response = requests.get(url)
     response.raise_for_status()
     try:
