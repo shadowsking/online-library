@@ -1,7 +1,9 @@
+import argparse
 import os.path
+import sys
+import time
 from urllib.parse import urlsplit, unquote, urljoin
 
-import argparse
 import requests
 from bs4 import BeautifulSoup
 from pathvalidate import sanitize_filename
@@ -10,6 +12,25 @@ from pathvalidate import sanitize_filename
 def check_for_redirect(response):
     if response.history:
         raise requests.HTTPError("The url has been redirected")
+
+
+def request_repeater(func):
+    def wrapper(*args, **kwargs):
+        attempt = 0
+        max_attempts = 5
+        while attempt < max_attempts:
+            try:
+                return func(*args, **kwargs)
+            except requests.ConnectionError as err:
+                if attempt == max_attempts:
+                    print(err, file=sys.stderr)
+                    break
+
+                attempt += 1
+                if attempt > 1:
+                    time.sleep(15)
+
+    return wrapper
 
 
 def parse_book_page(content):
@@ -42,6 +63,7 @@ def parse_book_page(content):
     }
 
 
+@request_repeater
 def download_txt(url, file_name, folder):
     response = requests.get(url)
     response.raise_for_status()
@@ -55,6 +77,7 @@ def download_txt(url, file_name, folder):
         file.write(response.content)
 
 
+@request_repeater
 def download_image(url, folder):
     response = requests.get(url)
     response.raise_for_status()
