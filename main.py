@@ -14,27 +14,8 @@ def check_for_redirect(response):
         raise requests.HTTPError("The url has been redirected")
 
 
-def request_repeater(func):
-    def wrapper(*args, **kwargs):
-        attempt = 0
-        max_attempts = 5
-        while attempt < max_attempts:
-            try:
-                return func(*args, **kwargs)
-            except requests.ConnectionError as err:
-                if attempt == max_attempts:
-                    print(err, file=sys.stderr)
-                    break
-
-                attempt += 1
-                if attempt > 1:
-                    time.sleep(15)
-
-    return wrapper
-
-
 def parse_book_page(content):
-    soup = BeautifulSoup(content, 'lxml')
+    soup = BeautifulSoup(content, "lxml")
     book_name = sanitize_filename(
         soup.find(class_="ow_px_td")
             .find("h1")
@@ -63,39 +44,41 @@ def parse_book_page(content):
     }
 
 
-@request_repeater
-def download_txt(url, file_name, folder):
-    response = requests.get(url)
-    response.raise_for_status()
-    try:
-        check_for_redirect(response)
-    except requests.HTTPError:
-        return
+def request_repeater(func):
+    def wrapper(*args, **kwargs):
+        attempt = 0
+        max_attempts = 5
+        while attempt < max_attempts:
+            try:
+                return func(*args, **kwargs)
+            except requests.HTTPError as err:
+                raise err
+            except requests.ConnectionError as err:
+                if attempt == max_attempts:
+                    raise err
 
-    file_path = os.path.join(folder, file_name)
-    with open(file_path, 'wb') as file:
+                attempt += 1
+                if attempt > 1:
+                    time.sleep(15)
+
+    return wrapper
+
+
+@request_repeater
+def execute_get_request(url, params=None):
+    response = requests.get(url, params=params)
+    response.raise_for_status()
+    check_for_redirect(response)
+    return response
+
+
+def download_file(url, file_path, params=None):
+    response = execute_get_request(url, params=params)
+    with open(file_path, "wb") as file:
         file.write(response.content)
 
 
-@request_repeater
-def download_image(url, folder):
-    response = requests.get(url)
-    response.raise_for_status()
-    try:
-        check_for_redirect(response)
-    except requests.HTTPError:
-        return
-
-    file_name = os.path.basename(urlsplit(unquote(url)).path)
-    file_path = os.path.join(folder, file_name)
-    if os.path.exists(file_path):
-        return
-
-    with open(file_path, 'wb') as file:
-        file.write(response.content)
-
-
-if __name__ == '__main__':
+if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description="Downloading books from https://tululu.org for local reading.",
     )
@@ -123,22 +106,28 @@ if __name__ == '__main__':
     )
     args = parser.parse_args()
     for book_id in range(args.start_id, args.end_id):
-        response = requests.get(f"https://tululu.org/b{book_id}/")
-        response.raise_for_status()
         try:
-            check_for_redirect(response)
-        except requests.HTTPError:
+            book_url = f"https://tululu.org/b{book_id}/"
+            response = execute_get_request(book_url)
+        except requests.HTTPError as err:
+            print(f"{err} ({book_url})", file=sys.stderr)
             continue
 
         book = parse_book_page(response.text)
-        if not book:
-            continue
 
         book_name = book.get("name")
-        file_name = f"{book_id}. {book_name}.txt"
-        url = f"https://tululu.org/txt.php?id={book_id}"
+        file_path = os.path.join(args.book_folder, f"{book_id}. {book_name}.txt")
         os.makedirs(args.book_folder, exist_ok=True)
-        download_txt(url, file_name, args.book_folder)
+        try:
+            download_file(f"https://tululu.org/txt.php", file_path, params={"id": book_id})
+        except (requests.HTTPError, requests.ConnectionError) as err:
+            print(err, file=sys.stderr)
 
         os.makedirs(args.image_folder, exist_ok=True)
-        download_image(book.get("image_url"), folder=args.image_folder)
+        image_name = os.path.basename(urlsplit(unquote(book.get("image_url"))).path)
+        image_path = os.path.join(args.image_folder, image_name)
+        if not os.path.exists(image_path):
+            try:
+                download_file(book.get("image_url"), image_path)
+            except (requests.HTTPError, requests.ConnectionError) as err:
+                print(err, file=sys.stderr)
