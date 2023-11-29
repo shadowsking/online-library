@@ -14,19 +14,14 @@ def check_for_redirect(response):
         raise requests.HTTPError("The url has been redirected")
 
 
-def parse_book_page(content):
+def parse_book_page(url, content):
     soup = BeautifulSoup(content, "lxml")
-    book_name = sanitize_filename(
-        soup.find(class_="ow_px_td")
-            .find("h1")
-            .text
-            .split("::")[0]
-            .strip()
-    )
-    image_url = urljoin(
-        "https://tululu.org",
-        soup.find(class_="bookimage").find("img")["src"]
-    )
+
+    title_tag = soup.find(class_="ow_px_td").find("h1")
+    book_name = title_tag.text.split("::")[0]
+    sanitized_book_name = sanitize_filename(book_name.strip())
+
+    image_url = urljoin(url, soup.find(class_="bookimage").find("img")["src"])
     texts = soup.find_all(class_="texts")
     comments = [text.find(class_="black").text for text in texts]
 
@@ -36,7 +31,7 @@ def parse_book_page(content):
     author = soup.find(class_="ow_px_td").find("h1").find("a").text
 
     return {
-        "name": book_name,
+        "name": sanitized_book_name,
         "author": author,
         "image_url": image_url,
         "comments": comments,
@@ -113,7 +108,7 @@ if __name__ == "__main__":
             print(f"{err} ({book_url})", file=sys.stderr)
             continue
 
-        book = parse_book_page(response.text)
+        book = parse_book_page(book_url, response.text)
 
         book_name = book.get("name")
         file_path = os.path.join(args.book_folder, f"{book_id}. {book_name}.txt")
