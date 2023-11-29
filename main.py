@@ -73,7 +73,9 @@ def download_image(url, folder):
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser()
+    parser = argparse.ArgumentParser(
+        description="Downloading books from https://tululu.org for local reading.",
+    )
     parser.add_argument(
         "--book_folder",
         help="book folder location",

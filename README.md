@@ -1,5 +1,7 @@
 # online-library
 
+Downloading books from https://tululu.org for local reading.
+
 ## Installing
 
 1) Clone project
