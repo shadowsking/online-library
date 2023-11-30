@@ -108,7 +108,8 @@ if __name__ == "__main__":
             print(f"{err} ({book_url})", file=sys.stderr)
             continue
         except requests.ConnectionError as err:
-            raise err
+            print(err, file=sys.stderr)
+            break
 
         book = parse_book_page(book_url, response.text)
 
@@ -120,7 +121,8 @@ if __name__ == "__main__":
         except requests.HTTPError as err:
             print(err, file=sys.stderr)
         except requests.ConnectionError as err:
-            raise err
+            print(err, file=sys.stderr)
+            break
 
         os.makedirs(args.image_folder, exist_ok=True)
         image_name = os.path.basename(urlsplit(unquote(book.get("image_url"))).path)
@@ -131,4 +133,5 @@ if __name__ == "__main__":
             except requests.HTTPError as err:
                 print(err, file=sys.stderr)
             except requests.ConnectionError as err:
-                raise err
+                print(err, file=sys.stderr)
+                break
