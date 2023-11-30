@@ -107,6 +107,8 @@ if __name__ == "__main__":
         except requests.HTTPError as err:
             print(f"{err} ({book_url})", file=sys.stderr)
             continue
+        except requests.ConnectionError as err:
+            raise err
 
         book = parse_book_page(book_url, response.text)
 
@@ -115,8 +117,10 @@ if __name__ == "__main__":
         os.makedirs(args.book_folder, exist_ok=True)
         try:
             download_file(f"https://tululu.org/txt.php", file_path, params={"id": book_id})
-        except (requests.HTTPError, requests.ConnectionError) as err:
+        except requests.HTTPError as err:
             print(err, file=sys.stderr)
+        except requests.ConnectionError as err:
+            raise err
 
         os.makedirs(args.image_folder, exist_ok=True)
         image_name = os.path.basename(urlsplit(unquote(book.get("image_url"))).path)
@@ -124,5 +128,7 @@ if __name__ == "__main__":
         if not os.path.exists(image_path):
             try:
                 download_file(book.get("image_url"), image_path)
-            except (requests.HTTPError, requests.ConnectionError) as err:
+            except requests.HTTPError as err:
                 print(err, file=sys.stderr)
+            except requests.ConnectionError as err:
+                raise err
