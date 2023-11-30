@@ -46,8 +46,6 @@ def request_repeater(func):
         while attempt < max_attempts:
             try:
                 return func(*args, **kwargs)
-            except requests.HTTPError as err:
-                raise err
             except requests.ConnectionError as err:
                 if attempt == max_attempts:
                     raise err
@@ -109,7 +107,8 @@ if __name__ == "__main__":
             continue
         except requests.ConnectionError as err:
             print(err, file=sys.stderr)
-            break
+            time.sleep(30)
+            continue
 
         book = parse_book_page(book_url, response.text)
 
@@ -122,7 +121,7 @@ if __name__ == "__main__":
             print(err, file=sys.stderr)
         except requests.ConnectionError as err:
             print(err, file=sys.stderr)
-            break
+            time.sleep(30)
 
         os.makedirs(args.image_folder, exist_ok=True)
         image_name = os.path.basename(urlsplit(unquote(book.get("image_url"))).path)
@@ -134,4 +133,4 @@ if __name__ == "__main__":
                 print(err, file=sys.stderr)
             except requests.ConnectionError as err:
                 print(err, file=sys.stderr)
-                break
+                time.sleep(30)
