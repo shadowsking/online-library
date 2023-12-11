@@ -19,6 +19,10 @@ def get_books_urls(url, content):
     books = soup.select(".ow_px_td table.d_book")
     return [urljoin(url, book.select_one("a")["href"]) for book in books]
 
+def get_total_pages(content):
+    soup = BeautifulSoup(content, "lxml")
+    return soup.select(".ow_px_td .center .npage")[-1].text
+
 
 def get_book_id(book_url):
     matched = re.match(r"\S+/b(?P<book_id>\d+)[/]?$", book_url)
@@ -42,11 +46,45 @@ if __name__ == '__main__':
         help="image folder location",
         default="images",
     )
+    parser.add_argument(
+        "--start_page",
+        help="start page in the category",
+        type=int,
+        default=1,
+    )
+    parser.add_argument(
+        "--end_page",
+        help="end page in the category",
+        type=int
+    )
     args = parser.parse_args()
     downloaded_books = []
 
-    for page_id in tqdm(range(1, 2), position=0, desc="page"):
-        response = execute_get_request(f"https://tululu.org/l55/{page_id}")
+    page_id = args.start_page
+    end_page = args.end_page or page_id + 1
+    progress_bar = tqdm(range(page_id, end_page), position=0, desc="page")
+    while int(page_id) < int(end_page):
+        try:
+            response = execute_get_request(f"https://tululu.org/l55/{page_id}")
+        except requests.HTTPError as err:
+            print(f"{err} (Page id: {page_id})", file=sys.stderr)
+            break
+        except requests.ConnectionError as err:
+            print(err, file=sys.stderr)
+            time.sleep(30)
+            page_id += 1
+            progress_bar.update()
+            continue
+
+        if not args.end_page:
+            end_page = args.end_page = get_total_pages(response.text)
+            progress_bar.reset(int(args.end_page) - int(args.start_page))
+            progress_bar.update(progress_bar.n)
+            progress_bar.refresh()
+
+        page_id += 1
+        progress_bar.update()
+
         for book_url in tqdm(
             get_books_urls(response.url, response.text),
             position=1,
