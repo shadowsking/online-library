@@ -32,3 +32,9 @@ def execute_get_request(url, params=None):
     response.raise_for_status()
     check_for_redirect(response)
     return response
+
+
+def download_file(url, file_path, params=None):
+    response = execute_get_request(url, params=params)
+    with open(file_path, "wb") as file:
+        file.write(response.content)
