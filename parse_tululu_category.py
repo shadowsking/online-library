@@ -50,12 +50,29 @@ if __name__ == '__main__':
         "--start_page",
         help="start page in the category",
         type=int,
-        default=1,
+        default=700,
     )
     parser.add_argument(
         "--end_page",
         help="end page in the category",
         type=int
+    )
+    parser.add_argument(
+        "--dest_folder",
+        help="path to the catalog with the parsing results",
+        default="books_details"
+    )
+    parser.add_argument(
+        "--skip_imgs",
+        help="skips downloading images",
+        type=bool,
+        default=False
+    )
+    parser.add_argument(
+        "--skip_txt",
+        help="skips downloading text documents",
+        type=bool,
+        default=False
     )
     args = parser.parse_args()
     downloaded_books = []
@@ -103,28 +120,32 @@ if __name__ == '__main__':
             book = parse_book_page(book_url, response.text)
             book_id = get_book_id(book_url)
 
-            book_name = book.get("name")
-            file_path = os.path.join(args.book_folder, f"{book_id}. {book_name}.txt")
-            os.makedirs(args.book_folder, exist_ok=True)
-            try:
-                download_file(f"https://tululu.org/txt.php", file_path, params={"id": book_id})
-            except requests.HTTPError as err:
-                print(err, file=sys.stderr)
-            except requests.ConnectionError as err:
-                print(err, file=sys.stderr)
-                time.sleep(30)
-
-            os.makedirs(args.image_folder, exist_ok=True)
-            image_name = os.path.basename(urlsplit(unquote(book.get("image_url"))).path)
-            image_path = os.path.join(args.image_folder, image_name)
-            if not os.path.exists(image_path):
+            file_path = None
+            if not args.skip_txt:
+                book_name = book.get("name")
+                file_path = os.path.join(args.book_folder, f"{book_id}. {book_name}.txt")
+                os.makedirs(args.book_folder, exist_ok=True)
                 try:
-                    download_file(book.get("image_url"), image_path)
+                    download_file(f"https://tululu.org/txt.php", file_path, params={"id": book_id})
                 except requests.HTTPError as err:
                     print(err, file=sys.stderr)
                 except requests.ConnectionError as err:
                     print(err, file=sys.stderr)
                     time.sleep(30)
+
+            image_path = None
+            if not args.skip_imgs:
+                os.makedirs(args.image_folder, exist_ok=True)
+                image_name = os.path.basename(urlsplit(unquote(book.get("image_url"))).path)
+                image_path = os.path.join(args.image_folder, image_name)
+                if not os.path.exists(image_path):
+                    try:
+                        download_file(book.get("image_url"), image_path)
+                    except requests.HTTPError as err:
+                        print(err, file=sys.stderr)
+                    except requests.ConnectionError as err:
+                        print(err, file=sys.stderr)
+                        time.sleep(30)
 
             downloaded_books.append(
                 dict(
@@ -134,5 +155,6 @@ if __name__ == '__main__':
                 )
             )
 
-    with open("downloaded_books.json", "w") as f:
+    os.makedirs(args.dest_folder, exist_ok=True)
+    with open(os.path.join(args.dest_folder, "books.json"), "w") as f:
         json.dump(downloaded_books, f, ensure_ascii=False, indent=2)
