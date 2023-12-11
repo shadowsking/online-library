@@ -50,29 +50,27 @@ if __name__ == '__main__':
         "--start_page",
         help="start page in the category",
         type=int,
-        default=700,
+        default=1,
     )
     parser.add_argument(
         "--end_page",
         help="end page in the category",
-        type=int
+        type=int,
     )
     parser.add_argument(
         "--dest_folder",
         help="path to the catalog with the parsing results",
-        default="books_details"
+        default="books_details",
     )
     parser.add_argument(
         "--skip_imgs",
         help="skips downloading images",
-        type=bool,
-        default=False
+        action="store_true",
     )
     parser.add_argument(
         "--skip_txt",
         help="skips downloading text documents",
-        type=bool,
-        default=False
+        action="store_true",
     )
     args = parser.parse_args()
     downloaded_books = []
@@ -85,7 +83,9 @@ if __name__ == '__main__':
             response = execute_get_request(f"https://tululu.org/l55/{page_id}")
         except requests.HTTPError as err:
             print(f"{err} (Page id: {page_id})", file=sys.stderr)
-            break
+            page_id += 1
+            progress_bar.update()
+            continue
         except requests.ConnectionError as err:
             print(err, file=sys.stderr)
             time.sleep(30)

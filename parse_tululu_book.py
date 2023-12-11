@@ -23,5 +23,5 @@ def parse_book_page(url, content):
         "author": author,
         "image_url": image_url,
         "comments": comments,
-        "genres": genres
+        "genres": genres,
     }
