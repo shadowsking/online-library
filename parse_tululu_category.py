@@ -16,8 +16,8 @@ from request_helper import execute_get_request, download_file
 
 def get_books_urls(url, content):
     soup = BeautifulSoup(content, "lxml")
-    books = soup.find(class_="ow_px_td").find_all("table", class_="d_book")
-    return [urljoin(url, book.find("a")["href"]) for book in books]
+    books = soup.select(".ow_px_td table.d_book")
+    return [urljoin(url, book.select_one("a")["href"]) for book in books]
 
 
 def get_book_id(book_url):
@@ -45,12 +45,12 @@ if __name__ == '__main__':
     args = parser.parse_args()
     downloaded_books = []
 
-    for page_id in tqdm(range(1, 4), position=0, desc="page"):
+    for page_id in tqdm(range(1, 2), position=0, desc="page"):
         response = execute_get_request(f"https://tululu.org/l55/{page_id}")
         for book_url in tqdm(
-                get_books_urls(response.url, response.text),
-                position=1,
-                desc="book"
+            get_books_urls(response.url, response.text),
+            position=1,
+            desc="book"
         ):
             try:
                 response = execute_get_request(book_url)
