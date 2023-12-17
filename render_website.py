@@ -3,10 +3,11 @@ import json
 import os.path
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
+from livereload import Server
 
 
-def render(dest_folder):
-    with open(os.path.join(dest_folder, "books.json"), "r") as f:
+def on_reload(folder=None):
+    with open(os.path.join(folder, "books.json"), "r") as f:
         books = json.load(f)
 
     env = Environment(
@@ -20,8 +21,10 @@ def render(dest_folder):
     with open("index.html", "w", encoding="utf8") as file:
         file.write(rendered_page)
 
+    print("reloaded")
 
-if __name__ == '__main__':
+
+def main():
     parser = argparse.ArgumentParser(
         description="Downloading books from https://tululu.org for local reading.",
     )
@@ -31,4 +34,12 @@ if __name__ == '__main__':
         default="books_details",
     )
     args = parser.parse_args()
-    render(args.dest_folder)
+
+    on_reload(args.dest_folder)
+    server = Server()
+    server.watch("template.html", lambda: on_reload(args.dest_folder))
+    server.serve(root='.')
+
+
+if __name__ == '__main__':
+    main()
