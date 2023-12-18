@@ -31,7 +31,7 @@ Arguments:
 - --book_folder: folder for downloaded books
 - --image_folder: folder for downloaded images
 
-
+### Downloads books from category
 ```bash
 python parse_tululu_category.py
 python parse_tululu_category.py --start_page 1 --end_page 5
@@ -44,3 +44,12 @@ Arguments:
 - --dest_folder: path to the catalog with the parsing results
 - --skip_imgs: skips downloading images
 - --skip_txt: skips downloading text documents
+
+### Render pages
+```bash
+python render_wibsite.py
+```
+Arguments:
+- --dest_folder: path to the catalog with the parsing results
+- --pages_folder: skips downloading images
+- --skip_txt: html pages folder
