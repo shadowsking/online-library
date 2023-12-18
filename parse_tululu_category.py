@@ -19,6 +19,7 @@ def get_books_urls(url, content):
     books = soup.select(".ow_px_td table.d_book")
     return [urljoin(url, book.select_one("a")["href"]) for book in books]
 
+
 def get_total_pages(content):
     soup = BeautifulSoup(content, "lxml")
     return soup.select(".ow_px_td .center .npage")[-1].text
