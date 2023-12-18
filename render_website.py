@@ -60,7 +60,7 @@ def main():
     )
     parser.add_argument(
         "--pages_folder",
-        help="path to the catalog with the parsing results",
+        help="html pages folder",
         default="pages",
     )
     args = parser.parse_args()
