@@ -1,5 +1,7 @@
 # online-library
 
+https://shadowsking.github.io/online-library/pages/index1.html
+
 Downloading books from https://tululu.org for local reading.
 
 ## Installing
@@ -51,5 +53,4 @@ python render_wibsite.py
 ```
 Arguments:
 - --dest_folder: path to the catalog with the parsing results
-- --pages_folder: skips downloading images
-- --skip_txt: html pages folder
+- --pages_folder: html pages folder
