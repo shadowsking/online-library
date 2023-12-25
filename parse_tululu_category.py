@@ -151,8 +151,8 @@ if __name__ == '__main__':
 
             downloaded_books.append(
                 dict(
-                    book_path=file_path,
-                    image_src=image_path,
+                    book_path=file_path.replace("\\", "/"),
+                    image_src=image_path.replace("\\", "/"),
                     **book
                 )
             )
