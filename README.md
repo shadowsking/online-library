@@ -50,8 +50,18 @@ Arguments:
 ### Render pages
 ```bash
 python render_website.py
-http://127.0.0.1
+python -m webbrowser http://127.0.0.1:5500
 ```
 Arguments:
 - --dest_folder: path to the catalog with the parsing results
 - --pages_folder: html pages folder
+
+
+### Open Site
+```bash
+python -m webbrowser http://127.0.0.1:5500
+```
+or open any file "pages/index1.html"
+```bash
+python -m webbrowser "file://$(pwd)/pages/index1.html"
+```
