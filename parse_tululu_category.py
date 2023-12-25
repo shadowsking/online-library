@@ -130,6 +130,7 @@ if __name__ == '__main__':
                     download_file(f"https://tululu.org/txt.php", file_path, params={"id": book_id})
                 except requests.HTTPError as err:
                     print(err, file=sys.stderr)
+                    continue
                 except requests.ConnectionError as err:
                     print(err, file=sys.stderr)
                     time.sleep(30)

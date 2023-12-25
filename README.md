@@ -36,7 +36,7 @@ Arguments:
 ### Downloads books from category
 ```bash
 python parse_tululu_category.py
-python parse_tululu_category.py --start_page 1 --end_page 5
+python parse_tululu_category.py --start_page 1 --end_page 20
 ```
 Arguments:
 - --start_page: start page in the category
@@ -49,7 +49,8 @@ Arguments:
 
 ### Render pages
 ```bash
-python render_wibsite.py
+python render_website.py
+http://127.0.0.1
 ```
 Arguments:
 - --dest_folder: path to the catalog with the parsing results
