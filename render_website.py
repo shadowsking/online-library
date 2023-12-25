@@ -22,29 +22,28 @@ def on_reload(dest_file=None, pages_folder=None):
     display_pages = 5
     pages_count = math.ceil(len(books) / books_count)
 
-    for page, iter_books in enumerate(chunked(books, books_count)):
-        current_page = page + 1
+    for page, iter_books in enumerate(chunked(books, books_count), start=1):
         previous_page = None
         next_page = None
-        if current_page != 1:
-            previous_page = os.path.join(pages_folder, f"index{current_page - 1}.html")
-        if current_page != pages_count:
-            next_page = os.path.join(pages_folder, f"index{current_page + 1}.html")
+        if page != 1:
+            previous_page = os.path.join(pages_folder, f"index{page - 1}.html")
+        if page != pages_count:
+            next_page = os.path.join(pages_folder, f"index{page + 1}.html")
 
         pages = {}
-        start_num_page = max(1, current_page - display_pages)
-        end_num_page = min(pages_count, current_page + display_pages)
+        start_num_page = max(1, page - display_pages)
+        end_num_page = min(pages_count, page + display_pages)
         for num_page in range(start_num_page, end_num_page):
             pages[num_page] = os.path.join(pages_folder, f"index{num_page}.html")
 
         rendered_page = template.render(
             iter_books=chunked(iter_books, 2),
             pages=pages,
-            current_page=current_page,
+            current_page=page,
             previous_page=previous_page,
             next_page=next_page
         )
-        page_path = os.path.join(pages_folder, f"index{current_page}.html")
+        page_path = os.path.join(pages_folder, f"index{page}.html")
         with open(page_path, "w", encoding="utf8") as file:
             file.write(rendered_page)
 
