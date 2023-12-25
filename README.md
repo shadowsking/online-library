@@ -43,7 +43,7 @@ Arguments:
 - --end_page: end page in the category
 - --book_folder: folder for downloaded books
 - --image_folder: folder for downloaded images
-- --dest_folder: path to the catalog with the parsing results
+- --dest_file: path to the catalog with the parsing results
 - --skip_imgs: skips downloading images
 - --skip_txt: skips downloading text documents
 
@@ -53,7 +53,7 @@ python render_website.py
 python -m webbrowser http://127.0.0.1:5500
 ```
 Arguments:
-- --dest_folder: path to the catalog with the parsing results
+- --dest_file: path to the catalog with the parsing results
 - --pages_folder: html pages folder
 
 

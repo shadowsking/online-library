@@ -40,12 +40,12 @@ if __name__ == '__main__':
     parser.add_argument(
         "--book_folder",
         help="book folder location",
-        default="books",
+        default="media/books",
     )
     parser.add_argument(
         "--image_folder",
         help="image folder location",
-        default="images",
+        default="media/images",
     )
     parser.add_argument(
         "--start_page",
@@ -59,9 +59,9 @@ if __name__ == '__main__':
         type=int,
     )
     parser.add_argument(
-        "--dest_folder",
-        help="path to the catalog with the parsing results",
-        default="books_details",
+        "--dest_file",
+        help="path to the parsing result",
+        default="books.json",
     )
     parser.add_argument(
         "--skip_imgs",
@@ -157,6 +157,6 @@ if __name__ == '__main__':
                 )
             )
 
-    os.makedirs(args.dest_folder, exist_ok=True)
-    with open(os.path.join(args.dest_folder, "books.json"), "w") as f:
+    os.makedirs(os.path.dirname(args.dest_file) or "/", exist_ok=True)
+    with open(args.dest_file, "w") as f:
         json.dump(downloaded_books, f, ensure_ascii=False, indent=2)

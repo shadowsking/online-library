@@ -1,7 +1,7 @@
 [
   {
-    "book_path": "books\\239. Алиби.txt",
-    "image_src": "images\\239.jpg",
+    "book_path": "media/books\\239. Алиби.txt",
+    "image_src": "media/images\\239.jpg",
     "name": "Алиби",
     "author": "ИВАНОВ Сергей",
     "image_url": "https://tululu.org/shots/239.jpg",
@@ -17,8 +17,8 @@
     ]
   },
   {
-    "book_path": "books\\550. Бич небесный.txt",
-    "image_src": "images\\550.jpg",
+    "book_path": "media/books\\550. Бич небесный.txt",
+    "image_src": "media/images\\550.jpg",
     "name": "Бич небесный",
     "author": "Стерлинг Брюс",
     "image_url": "https://tululu.org/shots/550.jpg",
@@ -38,8 +38,8 @@
     ]
   },
   {
-    "book_path": "books\\768. Цена посвящения Серый Ангел.txt",
-    "image_src": "images\\768.jpg",
+    "book_path": "media/books\\768. Цена посвящения Серый Ангел.txt",
+    "image_src": "media/images\\768.jpg",
     "name": "Цена посвящения Серый Ангел",
     "author": "Маркеев Олег Георгиевич",
     "image_url": "https://tululu.org/shots/768.jpg",
@@ -53,8 +53,8 @@
     ]
   },
   {
-    "book_path": "books\\769. Цена посвящения Время Зверя.txt",
-    "image_src": "images\\769.jpg",
+    "book_path": "media/books\\769. Цена посвящения Время Зверя.txt",
+    "image_src": "media/images\\769.jpg",
     "name": "Цена посвящения Время Зверя",
     "author": "Маркеев Олег Георгиевич",
     "image_url": "https://tululu.org/shots/769.jpg",
@@ -69,8 +69,8 @@
     ]
   },
   {
-    "book_path": "books\\1131. Дело Джен, или Эйра немилосердия.txt",
-    "image_src": "images\\1131.jpg",
+    "book_path": "media/books\\1131. Дело Джен, или Эйра немилосердия.txt",
+    "image_src": "media/images\\1131.jpg",
     "name": "Дело Джен, или Эйра немилосердия",
     "author": "Fforde Jasper",
     "image_url": "https://tululu.org/shots/1131.jpg",
@@ -81,8 +81,8 @@
     ]
   },
   {
-    "book_path": "books\\1715. Фабрика дьявола.txt",
-    "image_src": "images\\1715.jpg",
+    "book_path": "media/books\\1715. Фабрика дьявола.txt",
+    "image_src": "media/images\\1715.jpg",
     "name": "Фабрика дьявола",
     "author": "Мар Курт",
     "image_url": "https://tululu.org/shots/1715.jpg",
@@ -99,8 +99,8 @@
     ]
   },
   {
-    "book_path": "books\\1987. Говорящий камень.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\1987. Говорящий камень.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Говорящий камень",
     "author": "Азимов Айзек",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -120,8 +120,8 @@
     ]
   },
   {
-    "book_path": "books\\2043. И Он пришел... ИТ-роман.txt",
-    "image_src": "images\\2043.jpg",
+    "book_path": "media/books\\2043. И Он пришел... ИТ-роман.txt",
+    "image_src": "media/images\\2043.jpg",
     "name": "И Он пришел... ИТ-роман",
     "author": "Аджалов Владимир",
     "image_url": "https://tululu.org/shots/2043.jpg",
@@ -153,8 +153,8 @@
     ]
   },
   {
-    "book_path": "books\\2531. Казнить нельзя помиловать.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\2531. Казнить нельзя помиловать.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Казнить нельзя помиловать",
     "author": "Чертанов Максим",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -167,8 +167,8 @@
     ]
   },
   {
-    "book_path": "books\\4024. Ночь, которая умирает.txt",
-    "image_src": "images\\4024.jpg",
+    "book_path": "media/books\\4024. Ночь, которая умирает.txt",
+    "image_src": "media/images\\4024.jpg",
     "name": "Ночь, которая умирает",
     "author": "Азимов Айзек",
     "image_url": "https://tululu.org/shots/4024.jpg",
@@ -188,8 +188,8 @@
     ]
   },
   {
-    "book_path": "books\\4102. Нырок в забвение.txt",
-    "image_src": "images\\4102.jpg",
+    "book_path": "media/books\\4102. Нырок в забвение.txt",
+    "image_src": "media/images\\4102.jpg",
     "name": "Нырок в забвение",
     "author": "Хенрик Ричард",
     "image_url": "https://tululu.org/shots/4102.jpg",
@@ -203,8 +203,8 @@
     ]
   },
   {
-    "book_path": "books\\4876. Поющий колокольчик.txt",
-    "image_src": "images\\4876.jpg",
+    "book_path": "media/books\\4876. Поющий колокольчик.txt",
+    "image_src": "media/images\\4876.jpg",
     "name": "Поющий колокольчик",
     "author": "Азимов Айзек",
     "image_url": "https://tululu.org/shots/4876.jpg",
@@ -219,8 +219,8 @@
     ]
   },
   {
-    "book_path": "books\\5299. Продается тело Христа.txt",
-    "image_src": "images\\5299.jpg",
+    "book_path": "media/books\\5299. Продается тело Христа.txt",
+    "image_src": "media/images\\5299.jpg",
     "name": "Продается тело Христа",
     "author": "Аджалов Владимир Исфандеярович",
     "image_url": "https://tululu.org/shots/5299.jpg",
@@ -238,8 +238,8 @@
     ]
   },
   {
-    "book_path": "books\\5648. Роковой поцелуй.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\5648. Роковой поцелуй.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Роковой поцелуй",
     "author": "Патрацкая Наталья",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -251,8 +251,8 @@
     ]
   },
   {
-    "book_path": "books\\6758. Те, кто против нас.txt",
-    "image_src": "images\\6758.jpg",
+    "book_path": "media/books\\6758. Те, кто против нас.txt",
+    "image_src": "media/images\\6758.jpg",
     "name": "Те, кто против нас",
     "author": "Руденко Борис",
     "image_url": "https://tululu.org/shots/6758.jpg",
@@ -272,8 +272,8 @@
     ]
   },
   {
-    "book_path": "books\\6766. Телепортеры, внимание!.txt",
-    "image_src": "images\\6766.jpg",
+    "book_path": "media/books\\6766. Телепортеры, внимание!.txt",
+    "image_src": "media/images\\6766.jpg",
     "name": "Телепортеры, внимание!",
     "author": "Мар Курт",
     "image_url": "https://tululu.org/shots/6766.jpg",
@@ -284,8 +284,8 @@
     ]
   },
   {
-    "book_path": "books\\8283. Зодиак.txt",
-    "image_src": "images\\8283.jpg",
+    "book_path": "media/books\\8283. Зодиак.txt",
+    "image_src": "media/images\\8283.jpg",
     "name": "Зодиак",
     "author": "Стивенсон Нил",
     "image_url": "https://tululu.org/shots/8283.jpg",
@@ -298,8 +298,8 @@
     ]
   },
   {
-    "book_path": "books\\8559. Justitia - est Часть 1.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\8559. Justitia - est Часть 1.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Justitia - est Часть 1",
     "author": "Картман Эрика",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -310,8 +310,8 @@
     ]
   },
   {
-    "book_path": "books\\8902. Астронавт Джонс.txt",
-    "image_src": "images\\8902.jpg",
+    "book_path": "media/books\\8902. Астронавт Джонс.txt",
+    "image_src": "media/images\\8902.jpg",
     "name": "Астронавт Джонс",
     "author": "Хайнлайн Роберт",
     "image_url": "https://tululu.org/shots/8902.jpg",
@@ -341,8 +341,8 @@
     ]
   },
   {
-    "book_path": "books\\9080. Будет скафандр - будут и путешествия.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\9080. Будет скафандр - будут и путешествия.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Будет скафандр - будут и путешествия",
     "author": "Хайнлайн Роберт",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -364,8 +364,8 @@
     ]
   },
   {
-    "book_path": "books\\9402. Дочь Нефертити.txt",
-    "image_src": "images\\9402.jpg",
+    "book_path": "media/books\\9402. Дочь Нефертити.txt",
+    "image_src": "media/images\\9402.jpg",
     "name": "Дочь Нефертити",
     "author": "Семенова Татьяна",
     "image_url": "https://tululu.org/shots/9402.jpg",
@@ -387,8 +387,8 @@
     ]
   },
   {
-    "book_path": "books\\10768. Наложница императора.txt",
-    "image_src": "images\\10768.jpg",
+    "book_path": "media/books\\10768. Наложница императора.txt",
+    "image_src": "media/images\\10768.jpg",
     "name": "Наложница императора",
     "author": "Семенова Татьяна",
     "image_url": "https://tululu.org/shots/10768.jpg",
@@ -404,8 +404,8 @@
     ]
   },
   {
-    "book_path": "books\\10923. Общая теория Доминант.txt",
-    "image_src": "images\\10923.jpg",
+    "book_path": "media/books\\10923. Общая теория Доминант.txt",
+    "image_src": "media/images\\10923.jpg",
     "name": "Общая теория Доминант",
     "author": "Белохвостов Денис",
     "image_url": "https://tululu.org/shots/10923.jpg",
@@ -427,8 +427,8 @@
     ]
   },
   {
-    "book_path": "books\\12795. Взгляд из сердца.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\12795. Взгляд из сердца.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Взгляд из сердца",
     "author": "Мейстер Максим",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -442,8 +442,8 @@
     ]
   },
   {
-    "book_path": "books\\13038. Звездный зверь ( Звездное чудовище).txt",
-    "image_src": "images\\13038.jpg",
+    "book_path": "media/books\\13038. Звездный зверь ( Звездное чудовище).txt",
+    "image_src": "media/images\\13038.jpg",
     "name": "Звездный зверь ( Звездное чудовище)",
     "author": "Хайнлайн Роберт",
     "image_url": "https://tululu.org/shots/13038.jpg",
@@ -458,8 +458,8 @@
     ]
   },
   {
-    "book_path": "books\\16092. Сборник рассказов и повестей.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\16092. Сборник рассказов и повестей.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Сборник рассказов и повестей",
     "author": "ЛУКИНА Любовь",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -471,8 +471,8 @@
     ]
   },
   {
-    "book_path": "books\\18919. ...Яко помниши его.txt",
-    "image_src": "images\\18919.jpg",
+    "book_path": "media/books\\18919. ...Яко помниши его.txt",
+    "image_src": "media/images\\18919.jpg",
     "name": "...Яко помниши его",
     "author": "Азимов Айзек",
     "image_url": "https://tululu.org/shots/18919.jpg",
@@ -500,8 +500,8 @@
     ]
   },
   {
-    "book_path": "books\\18920. ...На Вавилон.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18920. ...На Вавилон.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "...На Вавилон",
     "author": "Силверберг Роберт",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -517,8 +517,8 @@
     ]
   },
   {
-    "book_path": "books\\18921. ...Вставьте шплинт А в гнездо Б.txt",
-    "image_src": "images\\18921.jpg",
+    "book_path": "media/books\\18921. ...Вставьте шплинт А в гнездо Б.txt",
+    "image_src": "media/images\\18921.jpg",
     "name": "...Вставьте шплинт А в гнездо Б",
     "author": "Азимов Айзек",
     "image_url": "https://tululu.org/shots/18921.jpg",
@@ -542,8 +542,8 @@
     ]
   },
   {
-    "book_path": "books\\18922. ...к звездам!.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18922. ...к звездам!.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "...к звездам!",
     "author": "Радутный Радий",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -555,8 +555,8 @@
     ]
   },
   {
-    "book_path": "books\\18926. 1-книга. Весна на Галане.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18926. 1-книга. Весна на Галане.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "1-книга. Весна на Галане",
     "author": "Карр Алекс",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -571,8 +571,8 @@
     ]
   },
   {
-    "book_path": "books\\18928. 10-я книга. Варкенские перемены.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18928. 10-я книга. Варкенские перемены.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "10-я книга. Варкенские перемены",
     "author": "Карр Алекс",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -584,8 +584,8 @@
     ]
   },
   {
-    "book_path": "books\\18929. 11-я книга. Рождение империи сенсетивов.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18929. 11-я книга. Рождение империи сенсетивов.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "11-я книга. Рождение империи сенсетивов",
     "author": "Карр Алекс",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -598,8 +598,8 @@
     ]
   },
   {
-    "book_path": "books\\18930. 13-я книга. Галанское сватовство.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18930. 13-я книга. Галанское сватовство.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "13-я книга. Галанское сватовство",
     "author": "Карр Алекс",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -609,8 +609,8 @@
     ]
   },
   {
-    "book_path": "books\\18931. 132-й.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18931. 132-й.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "132-й",
     "author": "Макаров Андрей",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -626,8 +626,8 @@
     ]
   },
   {
-    "book_path": "books\\18932. 14-я книга. Барабаны Таланов.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18932. 14-я книга. Барабаны Таланов.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "14-я книга. Барабаны Таланов",
     "author": "Карр Алекс",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -637,8 +637,8 @@
     ]
   },
   {
-    "book_path": "books\\18933. 15-я книга. Школа арханелов.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18933. 15-я книга. Школа арханелов.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "15-я книга. Школа арханелов",
     "author": "Карр Алекс",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -648,8 +648,8 @@
     ]
   },
   {
-    "book_path": "books\\18935. 2-я книга. Сенсетивы Галана.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18935. 2-я книга. Сенсетивы Галана.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "2-я книга. Сенсетивы Галана",
     "author": "Карр Алекс",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -659,8 +659,8 @@
     ]
   },
   {
-    "book_path": "books\\18936. 4-я книга. Экспедиция на Голубой планетоид.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18936. 4-я книга. Экспедиция на Голубой планетоид.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "4-я книга. Экспедиция на Голубой планетоид",
     "author": "Карр Алекс",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -670,8 +670,8 @@
     ]
   },
   {
-    "book_path": "books\\18937. 5-я книга. В подземельях Бидрупа.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18937. 5-я книга. В подземельях Бидрупа.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "5-я книга. В подземельях Бидрупа",
     "author": "Карр Алекс",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -681,8 +681,8 @@
     ]
   },
   {
-    "book_path": "books\\18938. 53-я американская мечта.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18938. 53-я американская мечта.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "53-я американская мечта",
     "author": "Салли Джейли",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -695,8 +695,8 @@
     ]
   },
   {
-    "book_path": "books\\18939. 6-я книга. Сражение за Бидруп.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18939. 6-я книга. Сражение за Бидруп.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "6-я книга. Сражение за Бидруп",
     "author": "Карр Алекс",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -706,8 +706,8 @@
     ]
   },
   {
-    "book_path": "books\\18940. 64-клеточный дурдом.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18940. 64-клеточный дурдом.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "64-клеточный дурдом",
     "author": "Лейбер Фриц",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -719,8 +719,8 @@
     ]
   },
   {
-    "book_path": "books\\18941. 7-я книга. День Откровения.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18941. 7-я книга. День Откровения.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "7-я книга. День Откровения",
     "author": "Карр Алекс",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -730,8 +730,8 @@
     ]
   },
   {
-    "book_path": "books\\18942. 8-я книга. Полет Уригленны.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18942. 8-я книга. Полет Уригленны.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "8-я книга. Полет Уригленны",
     "author": "Карр Алекс",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -741,8 +741,8 @@
     ]
   },
   {
-    "book_path": "books\\18943. 9-я книга. Тарат Зурбин.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18943. 9-я книга. Тарат Зурбин.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "9-я книга. Тарат Зурбин",
     "author": "Карр Алекс",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -752,8 +752,8 @@
     ]
   },
   {
-    "book_path": "books\\18944. 90х60х90.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18944. 90х60х90.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "90х60х90",
     "author": "Берендеев Кирилл",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -765,8 +765,8 @@
     ]
   },
   {
-    "book_path": "books\\18945. 995-й святой.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18945. 995-й святой.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "995-й святой",
     "author": "Цветков Юрий",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -776,8 +776,8 @@
     ]
   },
   {
-    "book_path": "books\\18946. А, Критика!.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18946. А, Критика!.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "А, Критика!",
     "author": "Еськов Кирилл",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -787,8 +787,8 @@
     ]
   },
   {
-    "book_path": "books\\18949. АНТОЛОГИЯ СКАНДИНАВСКОЙ ФАНТАСТИКИ.txt",
-    "image_src": "images\\18949.jpg",
+    "book_path": "media/books\\18949. АНТОЛОГИЯ СКАНДИНАВСКОЙ ФАНТАСТИКИ.txt",
+    "image_src": "media/images\\18949.jpg",
     "name": "АНТОЛОГИЯ СКАНДИНАВСКОЙ ФАНТАСТИКИ",
     "author": "Бойе Карин",
     "image_url": "https://tululu.org/shots/18949.jpg",
@@ -805,8 +805,8 @@
     ]
   },
   {
-    "book_path": "books\\18952. А бог един.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18952. А бог един.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "А бог един",
     "author": "Амнуэль Песах",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -816,8 +816,8 @@
     ]
   },
   {
-    "book_path": "books\\18953. А была ли тайна.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18953. А была ли тайна.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "А была ли тайна",
     "author": "Купцов Василий",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -827,8 +827,8 @@
     ]
   },
   {
-    "book_path": "books\\18954. А человек забудет.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18954. А человек забудет.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "А человек забудет",
     "author": "Трусов Сергей",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -838,8 +838,8 @@
     ]
   },
   {
-    "book_path": "books\\18955. А что будет.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18955. А что будет.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "А что будет",
     "author": "Браун Фредерик",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -849,8 +849,8 @@
     ]
   },
   {
-    "book_path": "books\\18956. А что с ними делать дальше.txt",
-    "image_src": "images\\18956.jpg",
+    "book_path": "media/books\\18956. А что с ними делать дальше.txt",
+    "image_src": "media/images\\18956.jpg",
     "name": "А что с ними делать дальше",
     "author": "Фостер Алан Дин",
     "image_url": "https://tululu.org/shots/18956.jpg",
@@ -866,8 +866,8 @@
     ]
   },
   {
-    "book_path": "books\\18958. А дом стоит себе спокойно (Вечный дом).txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18958. А дом стоит себе спокойно (Вечный дом).txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "А дом стоит себе спокойно (Вечный дом)",
     "author": "Ван Вогт Альфред",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -877,8 +877,8 @@
     ]
   },
   {
-    "book_path": "books\\18959. А еще мы выгуливаем собак.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18959. А еще мы выгуливаем собак.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "А еще мы выгуливаем собак",
     "author": "Хайнлайн Роберт",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -892,8 +892,8 @@
     ]
   },
   {
-    "book_path": "books\\18960. А где же Рошар.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18960. А где же Рошар.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "А где же Рошар",
     "author": "Глазков Юрий",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -903,8 +903,8 @@
     ]
   },
   {
-    "book_path": "books\\18961. А и Е.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18961. А и Е.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "А и Е",
     "author": "Стульник Сергей",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -914,8 +914,8 @@
     ]
   },
   {
-    "book_path": "books\\18962. А я пойду дальше.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18962. А я пойду дальше.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "А я пойду дальше",
     "author": "Лейбер Фриц",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -925,8 +925,8 @@
     ]
   },
   {
-    "book_path": "books\\18963. А как же еще.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18963. А как же еще.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "А как же еще",
     "author": "Каттнер Генри",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -938,8 +938,8 @@
     ]
   },
   {
-    "book_path": "books\\18964. А мне до них.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18964. А мне до них.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "А мне до них",
     "author": "Корепанов Алексей",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -949,8 +949,8 @@
     ]
   },
   {
-    "book_path": "books\\18965. А могла бы и быть.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18965. А могла бы и быть.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "А могла бы и быть",
     "author": "Григорьев Владимир",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -960,8 +960,8 @@
     ]
   },
   {
-    "book_path": "books\\18966. А моя мама - ведьма!.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18966. А моя мама - ведьма!.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "А моя мама - ведьма!",
     "author": "Тенн Уильям",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -973,8 +973,8 @@
     ]
   },
   {
-    "book_path": "books\\18967. А мы лезем в окно.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18967. А мы лезем в окно.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "А мы лезем в окно",
     "author": "Молзберг Барри",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -986,8 +986,8 @@
     ]
   },
   {
-    "book_path": "books\\18969. А она уходила.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18969. А она уходила.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "А она уходила",
     "author": "Дымов Феликс Яковлевич",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -997,8 +997,8 @@
     ]
   },
   {
-    "book_path": "books\\18970. А поезд идет.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18970. А поезд идет.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "А поезд идет",
     "author": "Ашкинази Леонид",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1008,8 +1008,8 @@
     ]
   },
   {
-    "book_path": "books\\18971. А роза упала на лапу Азора.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18971. А роза упала на лапу Азора.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "А роза упала на лапу Азора",
     "author": "Осинский Владимир",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1019,8 +1019,8 @@
     ]
   },
   {
-    "book_path": "books\\18972. А вдруг они победят.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18972. А вдруг они победят.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "А вдруг они победят",
     "author": "Белен",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1030,8 +1030,8 @@
     ]
   },
   {
-    "book_path": "books\\18973. А вдруг.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18973. А вдруг.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "А вдруг",
     "author": "Грешнов Михаил",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1041,8 +1041,8 @@
     ]
   },
   {
-    "book_path": "books\\18974. А все из-за любви.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18974. А все из-за любви.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "А все из-за любви",
     "author": "Гуларт Рон",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1054,8 +1054,8 @@
     ]
   },
   {
-    "book_path": "books\\18977. А всходы будут не скоро.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18977. А всходы будут не скоро.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "А всходы будут не скоро",
     "author": "Чешко Федор",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1065,8 +1065,8 @@
     ]
   },
   {
-    "book_path": "books\\18978. А вы не верили.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18978. А вы не верили.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "А вы не верили",
     "author": "Ягупова Светлана",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1076,8 +1076,8 @@
     ]
   },
   {
-    "book_path": "books\\18979. А за тобой придет генерал.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18979. А за тобой придет генерал.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "А за тобой придет генерал",
     "author": "Воробьев Борис",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1087,8 +1087,8 @@
     ]
   },
   {
-    "book_path": "books\\18980. А жизнь идёт.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18980. А жизнь идёт.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "А жизнь идёт",
     "author": "Бояндин Константин",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1098,8 +1098,8 @@
     ]
   },
   {
-    "book_path": "books\\18981. Ааст Ллун - архитектор неба.txt",
-    "image_src": "images\\18981.jpg",
+    "book_path": "media/books\\18981. Ааст Ллун - архитектор неба.txt",
+    "image_src": "media/images\\18981.jpg",
     "name": "Ааст Ллун - архитектор неба",
     "author": "Гуревич Георгий Иосифович",
     "image_url": "https://tululu.org/shots/18981.jpg",
@@ -1113,8 +1113,8 @@
     ]
   },
   {
-    "book_path": "books\\18982. Абадон.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18982. Абадон.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Абадон",
     "author": "Купцов Василий",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1124,8 +1124,8 @@
     ]
   },
   {
-    "book_path": "books\\18984. Абицелла.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18984. Абицелла.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Абицелла",
     "author": "Попогребский П",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1135,8 +1135,8 @@
     ]
   },
   {
-    "book_path": "books\\18986. Абракадабра.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18986. Абракадабра.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Абракадабра",
     "author": "Рассел Эрик Фрэнк",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1150,8 +1150,8 @@
     ]
   },
   {
-    "book_path": "books\\18987. Абсолютная Энциклопедия. Том 2.txt",
-    "image_src": "images\\18987.jpg",
+    "book_path": "media/books\\18987. Абсолютная Энциклопедия. Том 2.txt",
+    "image_src": "media/images\\18987.jpg",
     "name": "Абсолютная Энциклопедия. Том 2",
     "author": "Диксон Гордон",
     "image_url": "https://tululu.org/shots/18987.jpg",
@@ -1163,8 +1163,8 @@
     ]
   },
   {
-    "book_path": "books\\18988. Абсолютная гарантия.txt",
-    "image_src": "images\\18988.jpg",
+    "book_path": "media/books\\18988. Абсолютная гарантия.txt",
+    "image_src": "media/images\\18988.jpg",
     "name": "Абсолютная гарантия",
     "author": "Иванов Борис",
     "image_url": "https://tululu.org/shots/18988.jpg",
@@ -1197,8 +1197,8 @@
     ]
   },
   {
-    "book_path": "books\\18990. Абсолютная полиция.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18990. Абсолютная полиция.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Абсолютная полиция",
     "author": "Лисин Валерий",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1208,8 +1208,8 @@
     ]
   },
   {
-    "book_path": "books\\18991. Абсолютная правда.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18991. Абсолютная правда.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Абсолютная правда",
     "author": "Коростелев Дмитрий",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1219,8 +1219,8 @@
     ]
   },
   {
-    "book_path": "books\\18992. Абсолютная пустота (предисловие).txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18992. Абсолютная пустота (предисловие).txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Абсолютная пустота (предисловие)",
     "author": "Лем Станислав",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1232,8 +1232,8 @@
     ]
   },
   {
-    "book_path": "books\\18993. Абсолютная технократия.txt",
-    "image_src": "images\\18993.jpg",
+    "book_path": "media/books\\18993. Абсолютная технократия.txt",
+    "image_src": "media/images\\18993.jpg",
     "name": "Абсолютная технократия",
     "author": "Альдани Лино",
     "image_url": "https://tululu.org/shots/18993.jpg",
@@ -1245,8 +1245,8 @@
     ]
   },
   {
-    "book_path": "books\\18994. Абсолютно невозможно.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18994. Абсолютно невозможно.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Абсолютно невозможно",
     "author": "Силверберг Роберт",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1256,8 +1256,8 @@
     ]
   },
   {
-    "book_path": "books\\18995. Абсолютное Оружие.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18995. Абсолютное Оружие.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Абсолютное Оружие",
     "author": "Ершов Юрий",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1267,8 +1267,8 @@
     ]
   },
   {
-    "book_path": "books\\18996. Абсолютное оружие Горгон.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18996. Абсолютное оружие Горгон.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Абсолютное оружие Горгон",
     "author": "Щербаков Владимир",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1278,8 +1278,8 @@
     ]
   },
   {
-    "book_path": "books\\18999. Абсолютное счастье.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\18999. Абсолютное счастье.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Абсолютное счастье",
     "author": "Якименко Константин",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1292,8 +1292,8 @@
     ]
   },
   {
-    "book_path": "books\\19000. Абсолютное время.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19000. Абсолютное время.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Абсолютное время",
     "author": "Бялецкий Януш",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1303,8 +1303,8 @@
     ]
   },
   {
-    "book_path": "books\\19001. Абсолютный хрум.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19001. Абсолютный хрум.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Абсолютный хрум",
     "author": "Тарабанов Дмитрий",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1314,8 +1314,8 @@
     ]
   },
   {
-    "book_path": "books\\19002. Абстиненция.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19002. Абстиненция.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Абстиненция",
     "author": "Нестеренко Юрий",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1325,8 +1325,8 @@
     ]
   },
   {
-    "book_path": "books\\19003. Абстрактное мышление.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19003. Абстрактное мышление.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Абстрактное мышление",
     "author": "Берендеев Кирилл",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1336,8 +1336,8 @@
     ]
   },
   {
-    "book_path": "books\\19004. Ад для флибустьеров.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19004. Ад для флибустьеров.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Ад для флибустьеров",
     "author": "Гаррисон Гарри",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1351,8 +1351,8 @@
     ]
   },
   {
-    "book_path": "books\\19005. Ад есть ад.txt",
-    "image_src": "images\\19005.jpg",
+    "book_path": "media/books\\19005. Ад есть ад.txt",
+    "image_src": "media/images\\19005.jpg",
     "name": "Ад есть ад",
     "author": "Клейн Жерар",
     "image_url": "https://tululu.org/shots/19005.jpg",
@@ -1371,8 +1371,8 @@
     ]
   },
   {
-    "book_path": "books\\19009. Ад - это отсутствие бога.txt",
-    "image_src": "images\\19009.jpg",
+    "book_path": "media/books\\19009. Ад - это отсутствие бога.txt",
+    "image_src": "media/images\\19009.jpg",
     "name": "Ад - это отсутствие бога",
     "author": "Чан Тед",
     "image_url": "https://tululu.org/shots/19009.jpg",
@@ -1386,8 +1386,8 @@
     ]
   },
   {
-    "book_path": "books\\19011. Адам Вишневский-Снерг - биография.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19011. Адам Вишневский-Снерг - биография.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Адам Вишневский-Снерг - биография",
     "author": "Вишневский-Снерг Адам",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1397,8 +1397,8 @@
     ]
   },
   {
-    "book_path": "books\\19012. Адам без Евы.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19012. Адам без Евы.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Адам без Евы",
     "author": "Бестер Альфред",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1410,8 +1410,8 @@
     ]
   },
   {
-    "book_path": "books\\19013. Адам и Ева - 2.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19013. Адам и Ева - 2.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Адам и Ева - 2",
     "author": "Шумил Павел",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1424,8 +1424,8 @@
     ]
   },
   {
-    "book_path": "books\\19014. Адам и Ева.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19014. Адам и Ева.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Адам и Ева",
     "author": "Никонова Наталия",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1435,8 +1435,8 @@
     ]
   },
   {
-    "book_path": "books\\19015. Адаптация.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19015. Адаптация.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Адаптация",
     "author": "Уиндем Джон",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1448,8 +1448,8 @@
     ]
   },
   {
-    "book_path": "books\\19016. Адаптатор.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19016. Адаптатор.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Адаптатор",
     "author": "Ключевский Влад",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1461,8 +1461,8 @@
     ]
   },
   {
-    "book_path": "books\\19017. Адаптивная жена.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19017. Адаптивная жена.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Адаптивная жена",
     "author": "Глазков Юрий",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1472,8 +1472,8 @@
     ]
   },
   {
-    "book_path": "books\\19019. Адепт (Адепт - 1).txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19019. Адепт (Адепт - 1).txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Адепт (Адепт - 1)",
     "author": "Куртц Кэтрин",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1483,8 +1483,8 @@
     ]
   },
   {
-    "book_path": "books\\19020. Адепт Источника.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19020. Адепт Источника.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Адепт Источника",
     "author": "Авраменко Олег",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1494,8 +1494,8 @@
     ]
   },
   {
-    "book_path": "books\\19021. Адепт Сергеев.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19021. Адепт Сергеев.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Адепт Сергеев",
     "author": "Логинов Святослав",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1507,8 +1507,8 @@
     ]
   },
   {
-    "book_path": "books\\19025. Адмиральский час.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19025. Адмиральский час.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Адмиральский час",
     "author": "Вершинин Лев",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1518,8 +1518,8 @@
     ]
   },
   {
-    "book_path": "books\\19031. Адские лики Марса.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19031. Адские лики Марса.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Адские лики Марса",
     "author": "Нечай Дмитрий",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1529,8 +1529,8 @@
     ]
   },
   {
-    "book_path": "books\\19035. Адский модерн.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19035. Адский модерн.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Адский модерн",
     "author": "Биленкин Дмитрий Александрович",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1540,8 +1540,8 @@
     ]
   },
   {
-    "book_path": "books\\19036. Адский огонь.txt",
-    "image_src": "images\\19036.jpg",
+    "book_path": "media/books\\19036. Адский огонь.txt",
+    "image_src": "media/images\\19036.jpg",
     "name": "Адский огонь",
     "author": "Азимов Айзек",
     "image_url": "https://tululu.org/shots/19036.jpg",
@@ -1565,8 +1565,8 @@
     ]
   },
   {
-    "book_path": "books\\19037. Адский житель.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19037. Адский житель.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Адский житель",
     "author": "Де Ла Мотт",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1578,8 +1578,8 @@
     ]
   },
   {
-    "book_path": "books\\19041. Адвокату - два миллиона.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19041. Адвокату - два миллиона.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Адвокату - два миллиона",
     "author": "Мейсер Гародьд",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1591,8 +1591,8 @@
     ]
   },
   {
-    "book_path": "books\\19042. Афоризмы.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19042. Афоризмы.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Афоризмы",
     "author": "Лем Станислав",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1602,8 +1602,8 @@
     ]
   },
   {
-    "book_path": "books\\19043. Афра.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19043. Афра.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Афра",
     "author": "Коллинз Нэнси",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1613,8 +1613,8 @@
     ]
   },
   {
-    "book_path": "books\\19046. Африканская история.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19046. Африканская история.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Африканская история",
     "author": "Даль Роальд",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1624,8 +1624,8 @@
     ]
   },
   {
-    "book_path": "books\\19047. Африканская народная сказка.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19047. Африканская народная сказка.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Африканская народная сказка",
     "author": "Горбунов П",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1635,8 +1635,8 @@
     ]
   },
   {
-    "book_path": "books\\19048. Афродита (2080).txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19048. Афродита (2080).txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Афродита (2080)",
     "author": "Демют Мишель",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1646,8 +1646,8 @@
     ]
   },
   {
-    "book_path": "books\\19050. Агасфер.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19050. Агасфер.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Агасфер",
     "author": "Гайм Стефан",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1657,8 +1657,8 @@
     ]
   },
   {
-    "book_path": "books\\19051. Агава Супсова.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19051. Агава Супсова.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Агава Супсова",
     "author": "Юфряков Владлен",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1668,8 +1668,8 @@
     ]
   },
   {
-    "book_path": "books\\19057. Агент Тартара.txt",
-    "image_src": "images\\19057.jpg",
+    "book_path": "media/books\\19057. Агент Тартара.txt",
+    "image_src": "media/images\\19057.jpg",
     "name": "Агент Тартара",
     "author": "Иванов Борис",
     "image_url": "https://tululu.org/shots/19057.jpg",
@@ -1692,8 +1692,8 @@
     ]
   },
   {
-    "book_path": "books\\19061. Агент Хаоса.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19061. Агент Хаоса.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Агент Хаоса",
     "author": "Спинрад Ноpман",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1703,8 +1703,8 @@
     ]
   },
   {
-    "book_path": "books\\19062. Агент Звездного корпуса.txt",
-    "image_src": "images\\19062.jpg",
+    "book_path": "media/books\\19062. Агент Звездного корпуса.txt",
+    "image_src": "media/images\\19062.jpg",
     "name": "Агент Звездного корпуса",
     "author": "Кудрявцев Леонид",
     "image_url": "https://tululu.org/shots/19062.jpg",
@@ -1717,8 +1717,8 @@
     ]
   },
   {
-    "book_path": "books\\19063. Агент чужой планеты.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19063. Агент чужой планеты.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Агент чужой планеты",
     "author": "Нечипоренко Валерий",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1728,8 +1728,8 @@
     ]
   },
   {
-    "book_path": "books\\19064. Агент галактики.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19064. Агент галактики.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Агент галактики",
     "author": "Капп Колин",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1739,8 +1739,8 @@
     ]
   },
   {
-    "book_path": "books\\19065. Агент из будущего.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19065. Агент из будущего.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Агент из будущего",
     "author": "Браннер Джон",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1750,8 +1750,8 @@
     ]
   },
   {
-    "book_path": "books\\19066. Агент космического сыска.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19066. Агент космического сыска.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Агент космического сыска",
     "author": "Трапезников Владимир",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1765,8 +1765,8 @@
     ]
   },
   {
-    "book_path": "books\\19067. Агент нокке, или на войне как на войне.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19067. Агент нокке, или на войне как на войне.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Агент нокке, или на войне как на войне",
     "author": "Романова Елена Борисовна",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1776,8 +1776,8 @@
     ]
   },
   {
-    "book_path": "books\\19068. Агент перемен (Лиад - 2).txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19068. Агент перемен (Лиад - 2).txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Агент перемен (Лиад - 2)",
     "author": "Ли Шарон",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1787,8 +1787,8 @@
     ]
   },
   {
-    "book_path": "books\\19069. Агент перемен.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19069. Агент перемен.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Агент перемен",
     "author": "Ли Шарон",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1798,8 +1798,8 @@
     ]
   },
   {
-    "book_path": "books\\19071. Агент.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19071. Агент.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Агент",
     "author": "Матях Анатолий",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1809,8 +1809,8 @@
     ]
   },
   {
-    "book_path": "books\\19072. Агент X-100-C.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19072. Агент X-100-C.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Агент X-100-C",
     "author": "Кирпичев Вадим",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1820,8 +1820,8 @@
     ]
   },
   {
-    "book_path": "books\\19076. Агнесса на Луне.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19076. Агнесса на Луне.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Агнесса на Луне",
     "author": "Патрацкая Наталья Владимировна",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1833,8 +1833,8 @@
     ]
   },
   {
-    "book_path": "books\\19079. Аида.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19079. Аида.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Аида",
     "author": "Аарх Андрей",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1846,8 +1846,8 @@
     ]
   },
   {
-    "book_path": "books\\19080. Аидовы тени.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19080. Аидовы тени.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Аидовы тени",
     "author": "Пшеничный Борис",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1859,8 +1859,8 @@
     ]
   },
   {
-    "book_path": "books\\19081. Айболит-99.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19081. Айболит-99.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Айболит-99",
     "author": "Сильвестров Юрий",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1870,8 +1870,8 @@
     ]
   },
   {
-    "book_path": "books\\19083. Аэрогарды.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19083. Аэрогарды.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Аэрогарды",
     "author": "Смирнов Ярослав",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1881,8 +1881,8 @@
     ]
   },
   {
-    "book_path": "books\\19085. Айсберг Тауматы.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19085. Айсберг Тауматы.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Айсберг Тауматы",
     "author": "Данилова Дина",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1892,8 +1892,8 @@
     ]
   },
   {
-    "book_path": "books\\19086. Айси.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19086. Айси.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Айси",
     "author": "Донской Вадим",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1903,8 +1903,8 @@
     ]
   },
   {
-    "book_path": "books\\19087. Академия Биссектриса.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19087. Академия Биссектриса.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Академия Биссектриса",
     "author": "Малов Владимир Игоревич",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1914,8 +1914,8 @@
     ]
   },
   {
-    "book_path": "books\\19091. Академия и Земля.txt",
-    "image_src": "images\\19091.jpg",
+    "book_path": "media/books\\19091. Академия и Земля.txt",
+    "image_src": "media/images\\19091.jpg",
     "name": "Академия и Земля",
     "author": "Азимов Айзек",
     "image_url": "https://tululu.org/shots/19091.jpg",
@@ -1929,8 +1929,8 @@
     ]
   },
   {
-    "book_path": "books\\19092. Академия и хаос.txt",
-    "image_src": "images\\19092.jpg",
+    "book_path": "media/books\\19092. Академия и хаос.txt",
+    "image_src": "media/images\\19092.jpg",
     "name": "Академия и хаос",
     "author": "Бир Грег",
     "image_url": "https://tululu.org/shots/19092.jpg",
@@ -1940,8 +1940,8 @@
     ]
   },
   {
-    "book_path": "books\\19094. Академия теней (Становление Темной Школы - 2).txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19094. Академия теней (Становление Темной Школы - 2).txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Академия теней (Становление Темной Школы - 2)",
     "author": "Андерсон Кевин",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1951,8 +1951,8 @@
     ]
   },
   {
-    "book_path": "books\\19097. Академик.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19097. Академик.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Академик",
     "author": "Земляной Андрей Борисович",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1964,8 +1964,8 @@
     ]
   },
   {
-    "book_path": "books\\19098. Академонгородок.txt",
-    "image_src": "images\\19098.jpg",
+    "book_path": "media/books\\19098. Академонгородок.txt",
+    "image_src": "media/images\\19098.jpg",
     "name": "Академонгородок",
     "author": "Бачило Александр",
     "image_url": "https://tululu.org/shots/19098.jpg",
@@ -1978,8 +1978,8 @@
     ]
   },
   {
-    "book_path": "books\\19099. Акамие, или Любимая игрушка судьбы.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19099. Акамие, или Любимая игрушка судьбы.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Акамие, или Любимая игрушка судьбы",
     "author": "Гарридо Алекс",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -1994,8 +1994,8 @@
     ]
   },
   {
-    "book_path": "books\\19102. Акционерное общество Золотой Ангел.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19102. Акционерное общество Золотой Ангел.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Акционерное общество Золотой Ангел",
     "author": "Полынская Галина",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2005,8 +2005,8 @@
     ]
   },
   {
-    "book_path": "books\\19104. Акселератор.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19104. Акселератор.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Акселератор",
     "author": "Манаков Юрий Михайлович",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2016,8 +2016,8 @@
     ]
   },
   {
-    "book_path": "books\\19107. Акула.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19107. Акула.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Акула",
     "author": "Бровкин Владимир Николаевич",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2027,8 +2027,8 @@
     ]
   },
   {
-    "book_path": "books\\19108. Акулу еще не съели! (Акулу цъели - 1).txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19108. Акулу еще не съели! (Акулу цъели - 1).txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Акулу еще не съели! (Акулу цъели - 1)",
     "author": "Исаков Дмитрий",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2038,8 +2038,8 @@
     ]
   },
   {
-    "book_path": "books\\19111. Акулу хотят съесть ! (Акулу цъели - 2).txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19111. Акулу хотят съесть ! (Акулу цъели - 2).txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Акулу хотят съесть ! (Акулу цъели - 2)",
     "author": "Исаков Дмитрий",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2049,8 +2049,8 @@
     ]
   },
   {
-    "book_path": "books\\19112. Акулы.txt",
-    "image_src": "images\\19112.jpg",
+    "book_path": "media/books\\19112. Акулы.txt",
+    "image_src": "media/images\\19112.jpg",
     "name": "Акулы",
     "author": "Шерф Вальтер",
     "image_url": "https://tululu.org/shots/19112.jpg",
@@ -2062,8 +2062,8 @@
     ]
   },
   {
-    "book_path": "books\\19114. Акванавты.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19114. Акванавты.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Акванавты",
     "author": "Павлов Сергей Иванович",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2076,8 +2076,8 @@
     ]
   },
   {
-    "book_path": "books\\19116. Аквариумы.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19116. Аквариумы.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Аквариумы",
     "author": "Зубков Борис",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2087,8 +2087,8 @@
     ]
   },
   {
-    "book_path": "books\\19121. Альфа-ромео.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19121. Альфа-ромео.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Альфа-ромео",
     "author": "Дяченко Марина",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2100,8 +2100,8 @@
     ]
   },
   {
-    "book_path": "books\\19123. Альфа и омега.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19123. Альфа и омега.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Альфа и омега",
     "author": "Юрьев Зиновий",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2113,8 +2113,8 @@
     ]
   },
   {
-    "book_path": "books\\19124. Альфред Целлерман - Группенфюрер Луи XVI.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19124. Альфред Целлерман - Группенфюрер Луи XVI.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Альфред Целлерман - Группенфюрер Луи XVI",
     "author": "Лем Станислав",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2126,8 +2126,8 @@
     ]
   },
   {
-    "book_path": "books\\19126. Альтернатива - Экранопланы !.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19126. Альтернатива - Экранопланы !.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Альтернатива - Экранопланы !",
     "author": "Переслегина Е",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2137,8 +2137,8 @@
     ]
   },
   {
-    "book_path": "books\\19127. Альтернатива.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19127. Альтернатива.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Альтернатива",
     "author": "Туаев Сергей",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2148,8 +2148,8 @@
     ]
   },
   {
-    "book_path": "books\\19128. Альтернативная история.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19128. Альтернативная история.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Альтернативная история",
     "author": "Никитин Антон",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2159,8 +2159,8 @@
     ]
   },
   {
-    "book_path": "books\\19130. Альтруисты.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19130. Альтруисты.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Альтруисты",
     "author": "Нестеренко Юрий",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2170,8 +2170,8 @@
     ]
   },
   {
-    "book_path": "books\\19131. Альтруизин.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19131. Альтруизин.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Альтруизин",
     "author": "Лем Станислав",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2181,8 +2181,8 @@
     ]
   },
   {
-    "book_path": "books\\19132. Алая Книга Западных Пределов.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19132. Алая Книга Западных Пределов.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Алая Книга Западных Пределов",
     "author": "Лайк Александр",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2192,8 +2192,8 @@
     ]
   },
   {
-    "book_path": "books\\19133. Алая чума.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19133. Алая чума.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Алая чума",
     "author": "Лондон Джек",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2206,8 +2206,8 @@
     ]
   },
   {
-    "book_path": "books\\19134. Алая книга Готреда.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19134. Алая книга Готреда.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Алая книга Готреда",
     "author": "Платов Антон",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2217,8 +2217,8 @@
     ]
   },
   {
-    "book_path": "books\\19136. Аламагуса.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19136. Аламагуса.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Аламагуса",
     "author": "Рассел Эрик Фрэнк",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2228,8 +2228,8 @@
     ]
   },
   {
-    "book_path": "books\\19137. Аламазон и его пехота.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19137. Аламазон и его пехота.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Аламазон и его пехота",
     "author": "Абиджан Анвар",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2239,8 +2239,8 @@
     ]
   },
   {
-    "book_path": "books\\19140. Александр-наживка.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19140. Александр-наживка.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Александр-наживка",
     "author": "Тенн Уильям",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2250,8 +2250,8 @@
     ]
   },
   {
-    "book_path": "books\\19141. Александр Александрович Малиновский (Богданов).txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19141. Александр Александрович Малиновский (Богданов).txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Александр Александрович Малиновский (Богданов)",
     "author": "Баландин Рудольф",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2261,8 +2261,8 @@
     ]
   },
   {
-    "book_path": "books\\19142. Александр Бог.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19142. Александр Бог.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Александр Бог",
     "author": "Азимов Айзек",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2275,8 +2275,8 @@
     ]
   },
   {
-    "book_path": "books\\19143. Александр Лаврентьевич Колпаков - об авторе.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19143. Александр Лаврентьевич Колпаков - об авторе.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Александр Лаврентьевич Колпаков - об авторе",
     "author": "Колпаков Александр",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2288,8 +2288,8 @@
     ]
   },
   {
-    "book_path": "books\\19144. Александр Петрович и Вероятностный Демон.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19144. Александр Петрович и Вероятностный Демон.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Александр Петрович и Вероятностный Демон",
     "author": "Фирсов Владимир",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2299,8 +2299,8 @@
     ]
   },
   {
-    "book_path": "books\\19148. Алешкин и Туб.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19148. Алешкин и Туб.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Алешкин и Туб",
     "author": "Михеев Михаил",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2312,8 +2312,8 @@
     ]
   },
   {
-    "book_path": "books\\19149. Алгебра любви.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19149. Алгебра любви.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Алгебра любви",
     "author": "Бабий Алексей",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2323,8 +2323,8 @@
     ]
   },
   {
-    "book_path": "books\\19150. Алгоритм Вселенной.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19150. Алгоритм Вселенной.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Алгоритм Вселенной",
     "author": "Горбовский Александр",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2334,8 +2334,8 @@
     ]
   },
   {
-    "book_path": "books\\19151. Алгоритм невозможного (По ту сторону Вселенной - 2).txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19151. Алгоритм невозможного (По ту сторону Вселенной - 2).txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Алгоритм невозможного (По ту сторону Вселенной - 2)",
     "author": "Плонский Александр",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2345,8 +2345,8 @@
     ]
   },
   {
-    "book_path": "books\\19152. Алгоритм успеха.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19152. Алгоритм успеха.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Алгоритм успеха",
     "author": "Савченко Владимир",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2356,8 +2356,8 @@
     ]
   },
   {
-    "book_path": "books\\19153. Алгоритм.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19153. Алгоритм.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Алгоритм",
     "author": "Куклин Лев",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2367,8 +2367,8 @@
     ]
   },
   {
-    "book_path": "books\\19155. Алиби.txt",
-    "image_src": "images\\19155.jpg",
+    "book_path": "media/books\\19155. Алиби.txt",
+    "image_src": "media/images\\19155.jpg",
     "name": "Алиби",
     "author": "ИВАНОВ Сергей",
     "image_url": "https://tululu.org/shots/19155.jpg",
@@ -2379,8 +2379,8 @@
     ]
   },
   {
-    "book_path": "books\\19156. Алиса.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19156. Алиса.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Алиса",
     "author": "Каннингем Элейн",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2393,8 +2393,8 @@
     ]
   },
   {
-    "book_path": "books\\19157. Алиска.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19157. Алиска.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Алиска",
     "author": "Дедюхова Ирина",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2404,8 +2404,8 @@
     ]
   },
   {
-    "book_path": "books\\19159. Алконост.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19159. Алконост.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Алконост",
     "author": "Вотрин Валерий",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2415,8 +2415,8 @@
     ]
   },
   {
-    "book_path": "books\\19160. Аллергия.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19160. Аллергия.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Аллергия",
     "author": "Варакин Александр",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2426,8 +2426,8 @@
     ]
   },
   {
-    "book_path": "books\\19161. Алло, Парнас!.txt",
-    "image_src": "images\\19161.jpg",
+    "book_path": "media/books\\19161. Алло, Парнас!.txt",
+    "image_src": "media/images\\19161.jpg",
     "name": "Алло, Парнас!",
     "author": "Берестов Валентин",
     "image_url": "https://tululu.org/shots/19161.jpg",
@@ -2440,8 +2440,8 @@
     ]
   },
   {
-    "book_path": "books\\19162. Алло, Парнас !.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19162. Алло, Парнас !.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Алло, Парнас !",
     "author": "Берестов Валентин",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2451,8 +2451,8 @@
     ]
   },
   {
-    "book_path": "books\\19163. Алмаз Шах.txt",
-    "image_src": "images\\19163.jpg",
+    "book_path": "media/books\\19163. Алмаз Шах.txt",
+    "image_src": "media/images\\19163.jpg",
     "name": "Алмаз Шах",
     "author": "Ахметов Спартак",
     "image_url": "https://tululu.org/shots/19163.jpg",
@@ -2466,8 +2466,8 @@
     ]
   },
   {
-    "book_path": "books\\19164. Алмазная Маска (Галактическое Содружество - 2).txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19164. Алмазная Маска (Галактическое Содружество - 2).txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Алмазная Маска (Галактическое Содружество - 2)",
     "author": "Мэй Джулиан",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2477,8 +2477,8 @@
     ]
   },
   {
-    "book_path": "books\\19166. Алмазная свинка.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19166. Алмазная свинка.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Алмазная свинка",
     "author": "Каттнер Генри",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2490,8 +2490,8 @@
     ]
   },
   {
-    "book_path": "books\\19171. Алмазный дым.txt",
-    "image_src": "images\\19171.jpg",
+    "book_path": "media/books\\19171. Алмазный дым.txt",
+    "image_src": "media/images\\19171.jpg",
     "name": "Алмазный дым",
     "author": "Донев Антон",
     "image_url": "https://tululu.org/shots/19171.jpg",
@@ -2504,8 +2504,8 @@
     ]
   },
   {
-    "book_path": "books\\19175. Алогичные.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19175. Алогичные.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Алогичные",
     "author": "Перв Григорий",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2515,8 +2515,8 @@
     ]
   },
   {
-    "book_path": "books\\19176. Алтарь Василиска (Храм Саламандры - 2).txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19176. Алтарь Василиска (Храм Саламандры - 2).txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Алтарь Василиска (Храм Саламандры - 2)",
     "author": "Арчер Вадим",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2529,8 +2529,8 @@
     ]
   },
   {
-    "book_path": "books\\19180. Алхимия любви.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19180. Алхимия любви.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Алхимия любви",
     "author": "Минков Святослав",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2540,8 +2540,8 @@
     ]
   },
   {
-    "book_path": "books\\19181. Алхимик и колдунья.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19181. Алхимик и колдунья.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Алхимик и колдунья",
     "author": "Сташефф Кристофер",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2551,8 +2551,8 @@
     ]
   },
   {
-    "book_path": "books\\19185. Алые паруса - 2.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19185. Алые паруса - 2.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Алые паруса - 2",
     "author": "Щербак-Жуков Андрей",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2564,8 +2564,8 @@
     ]
   },
   {
-    "book_path": "books\\19187. Амальгама миров.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19187. Амальгама миров.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Амальгама миров",
     "author": "Клименко Владимир",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2575,8 +2575,8 @@
     ]
   },
   {
-    "book_path": "books\\19188. Амалрик.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19188. Амалрик.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Амалрик",
     "author": "Картер Лин",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2586,8 +2586,8 @@
     ]
   },
   {
-    "book_path": "books\\19189. Аманда Морган.txt",
-    "image_src": "images\\19189.jpg",
+    "book_path": "media/books\\19189. Аманда Морган.txt",
+    "image_src": "media/images\\19189.jpg",
     "name": "Аманда Морган",
     "author": "Диксон Гордон",
     "image_url": "https://tululu.org/shots/19189.jpg",
@@ -2597,8 +2597,8 @@
     ]
   },
   {
-    "book_path": "books\\19190. Аманжол.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19190. Аманжол.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Аманжол",
     "author": "Ютанов Николай",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2608,8 +2608,8 @@
     ]
   },
   {
-    "book_path": "books\\19191. Амазония, япданг Восточный.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19191. Амазония, япданг Восточный.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Амазония, япданг Восточный",
     "author": "Павлов Сергей Иванович",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2619,8 +2619,8 @@
     ]
   },
   {
-    "book_path": "books\\19197. Американская дуэль.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19197. Американская дуэль.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Американская дуэль",
     "author": "Биксби Джером",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2630,8 +2630,8 @@
     ]
   },
   {
-    "book_path": "books\\19204. Амфитеатр.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19204. Амфитеатр.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Амфитеатр",
     "author": "Шоу Боб",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2641,8 +2641,8 @@
     ]
   },
   {
-    "book_path": "books\\19207. Амнезия творца.txt",
-    "image_src": "images\\19207.jpg",
+    "book_path": "media/books\\19207. Амнезия творца.txt",
+    "image_src": "media/images\\19207.jpg",
     "name": "Амнезия творца",
     "author": "Летем Джонатан",
     "image_url": "https://tululu.org/shots/19207.jpg",
@@ -2654,8 +2654,8 @@
     ]
   },
   {
-    "book_path": "books\\19208. Амнезия.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19208. Амнезия.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Амнезия",
     "author": "Никитин Антон",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2665,8 +2665,8 @@
     ]
   },
   {
-    "book_path": "books\\19209. Амнистия.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19209. Амнистия.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Амнистия",
     "author": "Батлер Октавия",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2676,8 +2676,8 @@
     ]
   },
   {
-    "book_path": "books\\19210. Ампирный пасьянс.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19210. Ампирный пасьянс.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Ампирный пасьянс",
     "author": "Лысяк Вальдемар",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2687,8 +2687,8 @@
     ]
   },
   {
-    "book_path": "books\\19211. Амплитуда радости.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19211. Амплитуда радости.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Амплитуда радости",
     "author": "Горбовский Александр",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2698,8 +2698,8 @@
     ]
   },
   {
-    "book_path": "books\\19212. Амулькантарат.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19212. Амулькантарат.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Амулькантарат",
     "author": "Сергеев Иннокентий",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2709,8 +2709,8 @@
     ]
   },
   {
-    "book_path": "books\\19213. Амулет (Потревоженное проклятие).txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19213. Амулет (Потревоженное проклятие).txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Амулет (Потревоженное проклятие)",
     "author": "Волков Сергей",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2720,8 +2720,8 @@
     ]
   },
   {
-    "book_path": "books\\19215. Амулет викингов.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19215. Амулет викингов.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Амулет викингов",
     "author": "Настрадинова Величка",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2731,8 +2731,8 @@
     ]
   },
   {
-    "book_path": "books\\19217. Анабель-Ли.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19217. Анабель-Ли.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Анабель-Ли",
     "author": "Олди Генри Лайон",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2744,8 +2744,8 @@
     ]
   },
   {
-    "book_path": "books\\19220. Анаконда.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19220. Анаконда.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Анаконда",
     "author": "Малышев Эрнст",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2755,8 +2755,8 @@
     ]
   },
   {
-    "book_path": "books\\19221. Анализ.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19221. Анализ.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Анализ",
     "author": "Туяр А",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2766,8 +2766,8 @@
     ]
   },
   {
-    "book_path": "books\\19222. Аналоги.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19222. Аналоги.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Аналоги",
     "author": "Найт Дэймон",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2777,8 +2777,8 @@
     ]
   },
   {
-    "book_path": "books\\19223. Аналогичный случай.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19223. Аналогичный случай.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Аналогичный случай",
     "author": "Лукин Евгений",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2790,8 +2790,8 @@
     ]
   },
   {
-    "book_path": "books\\19224. Аналогия.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19224. Аналогия.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Аналогия",
     "author": "Емцев М",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2801,8 +2801,8 @@
     ]
   },
   {
-    "book_path": "books\\19225. Ананасы в кадках.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19225. Ананасы в кадках.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Ананасы в кадках",
     "author": "Чарушников Олег",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2812,8 +2812,8 @@
     ]
   },
   {
-    "book_path": "books\\19231. Анатомия пришельца.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19231. Анатомия пришельца.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Анатомия пришельца",
     "author": "Нечай Дмитрий",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2823,8 +2823,8 @@
     ]
   },
   {
-    "book_path": "books\\19232. Анахрон (книга первая).txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19232. Анахрон (книга первая).txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Анахрон (книга первая)",
     "author": "Беньковский Виктор",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2836,8 +2836,8 @@
     ]
   },
   {
-    "book_path": "books\\19233. Анахрон (книга вторая).txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19233. Анахрон (книга вторая).txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Анахрон (книга вторая)",
     "author": "Беньковский Виктор",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2849,8 +2849,8 @@
     ]
   },
   {
-    "book_path": "books\\19234. Анахрон.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19234. Анахрон.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Анахрон",
     "author": "Беньковский Виктор",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2860,8 +2860,8 @@
     ]
   },
   {
-    "book_path": "books\\19235. Анахрон 2.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19235. Анахрон 2.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Анахрон 2",
     "author": "Беньковский Виктор",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2871,8 +2871,8 @@
     ]
   },
   {
-    "book_path": "books\\19238. Андорэ и Эстелин, или Во дворце опять измена.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19238. Андорэ и Эстелин, или Во дворце опять измена.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Андорэ и Эстелин, или Во дворце опять измена",
     "author": "Мазова Наталия",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2884,8 +2884,8 @@
     ]
   },
   {
-    "book_path": "books\\19242. Анекдоты про Майкрософт.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19242. Анекдоты про Майкрософт.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Анекдоты про Майкрософт",
     "author": "Нестеренко Юрий",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2895,8 +2895,8 @@
     ]
   },
   {
-    "book_path": "books\\19243. Анекдоты про телевизионную игру Последний герой.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19243. Анекдоты про телевизионную игру Последний герой.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Анекдоты про телевизионную игру Последний герой",
     "author": "Ершов Юрий",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2906,8 +2906,8 @@
     ]
   },
   {
-    "book_path": "books\\19247. Ангел, темный ангел.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19247. Ангел, темный ангел.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Ангел, темный ангел",
     "author": "Желязны Роджер",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2917,8 +2917,8 @@
     ]
   },
   {
-    "book_path": "books\\19249. Ангел-эхо.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19249. Ангел-эхо.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Ангел-эхо",
     "author": "Моисеев Юрий",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2928,8 +2928,8 @@
     ]
   },
   {
-    "book_path": "books\\19251. Ангельс.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19251. Ангельс.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Ангельс",
     "author": "Харитонов Михаил",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2939,8 +2939,8 @@
     ]
   },
   {
-    "book_path": "books\\19254. Ангел Возмездия.txt",
-    "image_src": "images\\19254.jpg",
+    "book_path": "media/books\\19254. Ангел Возмездия.txt",
+    "image_src": "media/images\\19254.jpg",
     "name": "Ангел Возмездия",
     "author": "Петухов Юрий",
     "image_url": "https://tululu.org/shots/19254.jpg",
@@ -2959,8 +2959,8 @@
     ]
   },
   {
-    "book_path": "books\\19256. Ангел гибели.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19256. Ангел гибели.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Ангел гибели",
     "author": "Сыч Евгений",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2970,8 +2970,8 @@
     ]
   },
   {
-    "book_path": "books\\19258. Ангел по контракту (Большое драконье приключение - 3).txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19258. Ангел по контракту (Большое драконье приключение - 3).txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Ангел по контракту (Большое драконье приключение - 3)",
     "author": "Ипатова Наталия",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2981,8 +2981,8 @@
     ]
   },
   {
-    "book_path": "books\\19261. Ангел с мечом.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19261. Ангел с мечом.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Ангел с мечом",
     "author": "Черри Кэролайн",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -2992,8 +2992,8 @@
     ]
   },
   {
-    "book_path": "books\\19264. Ангел в аду.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19264. Ангел в аду.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Ангел в аду",
     "author": "Видар Гарм",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3003,8 +3003,8 @@
     ]
   },
   {
-    "book_path": "books\\19265. Ангел.txt",
-    "image_src": "images\\19265.jpg",
+    "book_path": "media/books\\19265. Ангел.txt",
+    "image_src": "media/images\\19265.jpg",
     "name": "Ангел",
     "author": "Килуэрт Гарри",
     "image_url": "https://tululu.org/shots/19265.jpg",
@@ -3014,8 +3014,8 @@
     ]
   },
   {
-    "book_path": "books\\19267. Ангелочек Джона Гранта.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19267. Ангелочек Джона Гранта.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Ангелочек Джона Гранта",
     "author": "Гроув Уильям",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3025,8 +3025,8 @@
     ]
   },
   {
-    "book_path": "books\\19268. Ангелок.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19268. Ангелок.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Ангелок",
     "author": "Дымов Дмитрий",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3036,8 +3036,8 @@
     ]
   },
   {
-    "book_path": "books\\19269. Ангелы-хранители работают без выходных.txt",
-    "image_src": "images\\19269.jpg",
+    "book_path": "media/books\\19269. Ангелы-хранители работают без выходных.txt",
+    "image_src": "media/images\\19269.jpg",
     "name": "Ангелы-хранители работают без выходных",
     "author": "Ворон Елена",
     "image_url": "https://tululu.org/shots/19269.jpg",
@@ -3047,8 +3047,8 @@
     ]
   },
   {
-    "book_path": "books\\19271. Ангелы Чарли.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19271. Ангелы Чарли.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Ангелы Чарли",
     "author": "Биссон Терри",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3058,8 +3058,8 @@
     ]
   },
   {
-    "book_path": "books\\19273. Ангелы мопя.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19273. Ангелы мопя.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Ангелы мопя",
     "author": "Павлов Сергей Иванович",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3071,8 +3071,8 @@
     ]
   },
   {
-    "book_path": "books\\19274. Ангелы неба.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19274. Ангелы неба.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Ангелы неба",
     "author": "Фирсов Владимир",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3082,8 +3082,8 @@
     ]
   },
   {
-    "book_path": "books\\19278. Ангелы в ракетах.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19278. Ангелы в ракетах.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Ангелы в ракетах",
     "author": "Биксби Джером",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3093,8 +3093,8 @@
     ]
   },
   {
-    "book_path": "books\\19279. Ангевозм.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19279. Ангевозм.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Ангевозм",
     "author": "Шейнин Аскольд Львович",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3104,8 +3104,8 @@
     ]
   },
   {
-    "book_path": "books\\19280. Английская разведка вывезла Бормана из горящего Берлина.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19280. Английская разведка вывезла Бормана из горящего Берлина.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Английская разведка вывезла Бормана из горящего Берлина",
     "author": "Смирнов Герман",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3115,8 +3115,8 @@
     ]
   },
   {
-    "book_path": "books\\19294. Анизотропное шоссе.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19294. Анизотропное шоссе.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Анизотропное шоссе",
     "author": "Чертков Андрей",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3126,8 +3126,8 @@
     ]
   },
   {
-    "book_path": "books\\19295. Анюта.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19295. Анюта.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Анюта",
     "author": "Агеев Леонид",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3139,8 +3139,8 @@
     ]
   },
   {
-    "book_path": "books\\19296. Анклав.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19296. Анклав.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Анклав",
     "author": "Вейо Клод",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3150,8 +3150,8 @@
     ]
   },
   {
-    "book_path": "books\\19297. Анклавы.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19297. Анклавы.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Анклавы",
     "author": "Франке Герберт В",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3161,8 +3161,8 @@
     ]
   },
   {
-    "book_path": "books\\19300. Аннотации на произведения Сергея Михайлова.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19300. Аннотации на произведения Сергея Михайлова.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Аннотации на произведения Сергея Михайлова",
     "author": "Михалков Сергей",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3172,8 +3172,8 @@
     ]
   },
   {
-    "book_path": "books\\19301. Аннотация сериала ВСЕЛЯНЕ.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19301. Аннотация сериала ВСЕЛЯНЕ.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Аннотация сериала ВСЕЛЯНЕ",
     "author": "Иванович Савченко Владимир",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3184,8 +3184,8 @@
     ]
   },
   {
-    "book_path": "books\\19304. Античеловек.txt",
-    "image_src": "images\\19304.jpg",
+    "book_path": "media/books\\19304. Античеловек.txt",
+    "image_src": "media/images\\19304.jpg",
     "name": "Античеловек",
     "author": "Кунц Дин Рэй",
     "image_url": "https://tululu.org/shots/19304.jpg",
@@ -3198,8 +3198,8 @@
     ]
   },
   {
-    "book_path": "books\\19306. Античный город в Южной Америке.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19306. Античный город в Южной Америке.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Античный город в Южной Америке",
     "author": "Фосетт П Г",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3209,8 +3209,8 @@
     ]
   },
   {
-    "book_path": "books\\19308. Антифобин.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19308. Антифобин.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Антифобин",
     "author": "Стрельченко Сергей",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3220,8 +3220,8 @@
     ]
   },
   {
-    "book_path": "books\\19309. Антигравитатор Элькинда.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19309. Антигравитатор Элькинда.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Антигравитатор Элькинда",
     "author": "Балабуха Андрей",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3231,8 +3231,8 @@
     ]
   },
   {
-    "book_path": "books\\19310. Антимир.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19310. Антимир.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Антимир",
     "author": "Борунь Кшиштоф",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3242,8 +3242,8 @@
     ]
   },
   {
-    "book_path": "books\\19312. Антиохийский священник.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19312. Антиохийский священник.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Антиохийский священник",
     "author": "Дубинина Анастасия",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3253,8 +3253,8 @@
     ]
   },
   {
-    "book_path": "books\\19317. Антология фантастических рассказов. Том 5.txt",
-    "image_src": "images\\19317.jpg",
+    "book_path": "media/books\\19317. Антология фантастических рассказов. Том 5.txt",
+    "image_src": "media/images\\19317.jpg",
     "name": "Антология фантастических рассказов. Том 5",
     "author": "Алдани Лино",
     "image_url": "https://tululu.org/shots/19317.jpg",
@@ -3264,8 +3264,8 @@
     ]
   },
   {
-    "book_path": "books\\19318. Антология сказочной фантастики.txt",
-    "image_src": "images\\19318.jpg",
+    "book_path": "media/books\\19318. Антология сказочной фантастики.txt",
+    "image_src": "media/images\\19318.jpg",
     "name": "Антология сказочной фантастики",
     "author": "Пристли Джон Бойнтон",
     "image_url": "https://tululu.org/shots/19318.jpg",
@@ -3275,8 +3275,8 @@
     ]
   },
   {
-    "book_path": "books\\19319. Антология советской фантастики - 2.txt",
-    "image_src": "images\\19319.jpg",
+    "book_path": "media/books\\19319. Антология советской фантастики - 2.txt",
+    "image_src": "media/images\\19319.jpg",
     "name": "Антология советской фантастики - 2",
     "author": "Биленкин Дмитрий",
     "image_url": "https://tululu.org/shots/19319.jpg",
@@ -3286,8 +3286,8 @@
     ]
   },
   {
-    "book_path": "books\\19320. Антология.txt",
-    "image_src": "images\\19320.jpg",
+    "book_path": "media/books\\19320. Антология.txt",
+    "image_src": "media/images\\19320.jpg",
     "name": "Антология",
     "author": "Вежинов Павел",
     "image_url": "https://tululu.org/shots/19320.jpg",
@@ -3297,8 +3297,8 @@
     ]
   },
   {
-    "book_path": "books\\19323. Апофеоз, или Зарисовки на руинах моего сознания (Экзорцизм - 2).txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19323. Апофеоз, или Зарисовки на руинах моего сознания (Экзорцизм - 2).txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Апофеоз, или Зарисовки на руинах моего сознания (Экзорцизм - 2)",
     "author": "Фармер Филип Жозе",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3308,8 +3308,8 @@
     ]
   },
   {
-    "book_path": "books\\19325. Апокалипсис сегодня.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19325. Апокалипсис сегодня.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Апокалипсис сегодня",
     "author": "Первушин Антон",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3319,8 +3319,8 @@
     ]
   },
   {
-    "book_path": "books\\19326. Апокалипсис 2035.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19326. Апокалипсис 2035.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Апокалипсис 2035",
     "author": "Разумов Илья",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3330,8 +3330,8 @@
     ]
   },
   {
-    "book_path": "books\\19327. Апокрифы.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19327. Апокрифы.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Апокрифы",
     "author": "Бодров Виталий",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3341,8 +3341,8 @@
     ]
   },
   {
-    "book_path": "books\\19328. Аполлон-11.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19328. Аполлон-11.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Аполлон-11",
     "author": "Харитонов Михаил",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3352,8 +3352,8 @@
     ]
   },
   {
-    "book_path": "books\\19330. Аппарат Аристотеля.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19330. Аппарат Аристотеля.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Аппарат Аристотеля",
     "author": "Гор Геннадий",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3363,8 +3363,8 @@
     ]
   },
   {
-    "book_path": "books\\19332. Аппендикс.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19332. Аппендикс.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Аппендикс",
     "author": "Балабуха Андрей",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3374,8 +3374,8 @@
     ]
   },
   {
-    "book_path": "books\\19334. Апрельские Тезисы (Из дневников домовладельца).txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19334. Апрельские Тезисы (Из дневников домовладельца).txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Апрельские Тезисы (Из дневников домовладельца)",
     "author": "Торин Александр",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3385,8 +3385,8 @@
     ]
   },
   {
-    "book_path": "books\\19335. Апробация.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19335. Апробация.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Апробация",
     "author": "Абрамов Александр",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3396,8 +3396,8 @@
     ]
   },
   {
-    "book_path": "books\\19336. Апсу.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19336. Апсу.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Апсу",
     "author": "Марков Александр",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3407,8 +3407,8 @@
     ]
   },
   {
-    "book_path": "books\\19337. Аптекарь Нерсес Мажан.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19337. Аптекарь Нерсес Мажан.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Аптекарь Нерсес Мажан",
     "author": "Симонян Карен",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3418,8 +3418,8 @@
     ]
   },
   {
-    "book_path": "books\\19339. Аранья мексиканских болот.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19339. Аранья мексиканских болот.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Аранья мексиканских болот",
     "author": "Сейлор М",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3429,8 +3429,8 @@
     ]
   },
   {
-    "book_path": "books\\19340. Арахисы.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19340. Арахисы.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Арахисы",
     "author": "Дэвидсон Эйв",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3440,8 +3440,8 @@
     ]
   },
   {
-    "book_path": "books\\19342. Арбузная корочка.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19342. Арбузная корочка.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Арбузная корочка",
     "author": "Лапин Борис Федорович",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3451,8 +3451,8 @@
     ]
   },
   {
-    "book_path": "books\\19343. Ардабиола.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19343. Ардабиола.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Ардабиола",
     "author": "Евтушенко Евгений Александрович",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3464,8 +3464,8 @@
     ]
   },
   {
-    "book_path": "books\\19345. Арес - бог войны.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19345. Арес - бог войны.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Арес - бог войны",
     "author": "Елена Горелик",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3475,8 +3475,8 @@
     ]
   },
   {
-    "book_path": "books\\19346. Арест.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19346. Арест.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Арест",
     "author": "Харитонов Михаил",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3486,8 +3486,8 @@
     ]
   },
   {
-    "book_path": "books\\19349. Арфа ветров (Талисманы власти - 2).txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19349. Арфа ветров (Талисманы власти - 2).txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Арфа ветров (Талисманы власти - 2)",
     "author": "Фьюри Мэгги",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3497,8 +3497,8 @@
     ]
   },
   {
-    "book_path": "books\\19350. Арфист на ветру (Мастер загадок - 3).txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19350. Арфист на ветру (Мастер загадок - 3).txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Арфист на ветру (Мастер загадок - 3)",
     "author": "Маккиллип Патриция",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3508,8 +3508,8 @@
     ]
   },
   {
-    "book_path": "books\\19354. Аргонавты вселенной.txt",
-    "image_src": "images\\19354.jpg",
+    "book_path": "media/books\\19354. Аргонавты вселенной.txt",
+    "image_src": "media/images\\19354.jpg",
     "name": "Аргонавты вселенной",
     "author": "Владко Владимир Николаевич",
     "image_url": "https://tululu.org/shots/19354.jpg",
@@ -3523,8 +3523,8 @@
     ]
   },
   {
-    "book_path": "books\\19355. Аргументы совести.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19355. Аргументы совести.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Аргументы совести",
     "author": "Блиш Джеймс",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3536,8 +3536,8 @@
     ]
   },
   {
-    "book_path": "books\\19356. Аргус-12 (Космический блюститель).txt",
-    "image_src": "images\\19356.jpg",
+    "book_path": "media/books\\19356. Аргус-12 (Космический блюститель).txt",
+    "image_src": "media/images\\19356.jpg",
     "name": "Аргус-12 (Космический блюститель)",
     "author": "Якубовский Аскольд Павлович",
     "image_url": "https://tululu.org/shots/19356.jpg",
@@ -3547,8 +3547,8 @@
     ]
   },
   {
-    "book_path": "books\\19361. Аристотель и оружие.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19361. Аристотель и оружие.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Аристотель и оружие",
     "author": "Де Камп Лион",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3558,8 +3558,8 @@
     ]
   },
   {
-    "book_path": "books\\19363. Арктический мост.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19363. Арктический мост.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Арктический мост",
     "author": "Казанцев Александр",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3571,8 +3571,8 @@
     ]
   },
   {
-    "book_path": "books\\19366. Арлекино и Пьеро.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19366. Арлекино и Пьеро.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Арлекино и Пьеро",
     "author": "Аарх Андрей",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3582,8 +3582,8 @@
     ]
   },
   {
-    "book_path": "books\\19367. Арма.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19367. Арма.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Арма",
     "author": "Измайлов Андрей",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3593,8 +3593,8 @@
     ]
   },
   {
-    "book_path": "books\\19372. Армагеддон у Весты.txt",
-    "image_src": "images\\19372.jpg",
+    "book_path": "media/books\\19372. Армагеддон у Весты.txt",
+    "image_src": "media/images\\19372.jpg",
     "name": "Армагеддон у Весты",
     "author": "Мёрдок Мелинда С.",
     "image_url": "https://tululu.org/shots/19372.jpg",
@@ -3604,8 +3604,8 @@
     ]
   },
   {
-    "book_path": "books\\19375. Армагеддон.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19375. Армагеддон.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Армагеддон",
     "author": "Уэллс Герберт Джордж",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3615,8 +3615,8 @@
     ]
   },
   {
-    "book_path": "books\\19376. Армагеддон No 3.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19376. Армагеддон No 3.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Армагеддон No 3",
     "author": "Дедюхова Ирина",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3626,8 +3626,8 @@
     ]
   },
   {
-    "book_path": "books\\19378. Армия Гутэнтака.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19378. Армия Гутэнтака.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Армия Гутэнтака",
     "author": "Силаев Александр",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3637,8 +3637,8 @@
     ]
   },
   {
-    "book_path": "books\\19381. Аромат возвращений.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19381. Аромат возвращений.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Аромат возвращений",
     "author": "Мынэскуртэ Ион",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3648,8 +3648,8 @@
     ]
   },
   {
-    "book_path": "books\\19382. Аропс.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19382. Аропс.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Аропс",
     "author": "Мандалян Элеонора",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3659,8 +3659,8 @@
     ]
   },
   {
-    "book_path": "books\\19384. Артаксеркс.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19384. Артаксеркс.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Артаксеркс",
     "author": "Жемайтис Сергей",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3670,8 +3670,8 @@
     ]
   },
   {
-    "book_path": "books\\19385. Артефакт (Испепеляющий разум).txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19385. Артефакт (Испепеляющий разум).txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Артефакт (Испепеляющий разум)",
     "author": "Гир Майкл",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3683,8 +3683,8 @@
     ]
   },
   {
-    "book_path": "books\\19386. Артефакт.txt",
-    "image_src": "images\\19386.jpg",
+    "book_path": "media/books\\19386. Артефакт.txt",
+    "image_src": "media/images\\19386.jpg",
     "name": "Артефакт",
     "author": "Тарабанов Дмитрий",
     "image_url": "https://tululu.org/shots/19386.jpg",
@@ -3694,8 +3694,8 @@
     ]
   },
   {
-    "book_path": "books\\19392. Археологические находки.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19392. Археологические находки.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Археологические находки",
     "author": "Силверберг Роберт",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3705,8 +3705,8 @@
     ]
   },
   {
-    "book_path": "books\\19397. Архитектор (3).txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19397. Архитектор (3).txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Архитектор (3)",
     "author": "Бояндин Константин",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3716,8 +3716,8 @@
     ]
   },
   {
-    "book_path": "books\\19398. Архитектор.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19398. Архитектор.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Архитектор",
     "author": "Бояндин Константин",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3727,8 +3727,8 @@
     ]
   },
   {
-    "book_path": "books\\19403. Асгард - город богов (история открытия).txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19403. Асгард - город богов (история открытия).txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Асгард - город богов (история открытия)",
     "author": "Щербаков Владимир",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3738,8 +3738,8 @@
     ]
   },
   {
-    "book_path": "books\\19407. Астероид Утиль Ужас.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19407. Астероид Утиль Ужас.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Астероид Утиль Ужас",
     "author": "Башкиров Михаил",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3749,8 +3749,8 @@
     ]
   },
   {
-    "book_path": "books\\19408. Астероид Spiritus Vini.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19408. Астероид Spiritus Vini.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Астероид Spiritus Vini",
     "author": "Фролова Маргарита",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3760,8 +3760,8 @@
     ]
   },
   {
-    "book_path": "books\\19409. Астийский Эдельвейс. Научно-фантастический роман.txt",
-    "image_src": "images\\19409.jpg",
+    "book_path": "media/books\\19409. Астийский Эдельвейс. Научно-фантастический роман.txt",
+    "image_src": "media/images\\19409.jpg",
     "name": "Астийский Эдельвейс. Научно-фантастический роман",
     "author": "Корчагин Владимир",
     "image_url": "https://tululu.org/shots/19409.jpg",
@@ -3775,8 +3775,8 @@
     ]
   },
   {
-    "book_path": "books\\19410. Астийский эдельвейс.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19410. Астийский эдельвейс.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Астийский эдельвейс",
     "author": "Корчагин Владимир",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3786,8 +3786,8 @@
     ]
   },
   {
-    "book_path": "books\\19411. Астральное тело-2, Изида или Врата Святилища (Как стать магом - 2).txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19411. Астральное тело-2, Изида или Врата Святилища (Как стать магом - 2).txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Астральное тело-2, Изида или Врата Святилища (Как стать магом - 2)",
     "author": "Соло Всеслав",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3797,8 +3797,8 @@
     ]
   },
   {
-    "book_path": "books\\19414. Астронавт Джонс.txt",
-    "image_src": "images\\19414.jpg",
+    "book_path": "media/books\\19414. Астронавт Джонс.txt",
+    "image_src": "media/images\\19414.jpg",
     "name": "Астронавт Джонс",
     "author": "Хайнлайн Роберт",
     "image_url": "https://tululu.org/shots/19414.jpg",
@@ -3815,8 +3815,8 @@
     ]
   },
   {
-    "book_path": "books\\19415. Астронавт.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19415. Астронавт.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Астронавт",
     "author": "Журавлева Валентина",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3826,8 +3826,8 @@
     ]
   },
   {
-    "book_path": "books\\19416. Астронавты в лохмотьях (Мир и Верхний Мир - 1).txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19416. Астронавты в лохмотьях (Мир и Верхний Мир - 1).txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Астронавты в лохмотьях (Мир и Верхний Мир - 1)",
     "author": "Шоу Боб",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3839,8 +3839,8 @@
     ]
   },
   {
-    "book_path": "books\\19417. Астронавты в лохмотьях.txt",
-    "image_src": "images\\19417.jpg",
+    "book_path": "media/books\\19417. Астронавты в лохмотьях.txt",
+    "image_src": "media/images\\19417.jpg",
     "name": "Астронавты в лохмотьях",
     "author": "Шоу Боб",
     "image_url": "https://tululu.org/shots/19417.jpg",
@@ -3853,8 +3853,8 @@
     ]
   },
   {
-    "book_path": "books\\19420. Астропилот Ронг Третий.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19420. Астропилот Ронг Третий.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Астропилот Ронг Третий",
     "author": "Осинский Владимир",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3864,8 +3864,8 @@
     ]
   },
   {
-    "book_path": "books\\19421. Астрополис.txt",
-    "image_src": "images\\19421.jpg",
+    "book_path": "media/books\\19421. Астрополис.txt",
+    "image_src": "media/images\\19421.jpg",
     "name": "Астрополис",
     "author": "Гайль Отто Вилли",
     "image_url": "https://tululu.org/shots/19421.jpg",
@@ -3875,8 +3875,8 @@
     ]
   },
   {
-    "book_path": "books\\19423. Атака Боло.txt",
-    "image_src": "images\\19423.jpg",
+    "book_path": "media/books\\19423. Атака Боло.txt",
+    "image_src": "media/images\\19423.jpg",
     "name": "Атака Боло",
     "author": "Кейт Уильям",
     "image_url": "https://tululu.org/shots/19423.jpg",
@@ -3891,8 +3891,8 @@
     ]
   },
   {
-    "book_path": "books\\19433. Атаульф.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19433. Атаульф.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Атаульф",
     "author": "Беньковский Виктор",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3902,8 +3902,8 @@
     ]
   },
   {
-    "book_path": "books\\19435. Атавизм.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19435. Атавизм.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Атавизм",
     "author": "Мариновский Иван",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3913,8 +3913,8 @@
     ]
   },
   {
-    "book_path": "books\\19436. Атеист.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19436. Атеист.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Атеист",
     "author": "Дорофеев Сергей (Дорофф)",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3924,8 +3924,8 @@
     ]
   },
   {
-    "book_path": "books\\19437. Атенаора Меттер Порфирола.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19437. Атенаора Меттер Порфирола.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Атенаора Меттер Порфирола",
     "author": "Грушко Елена",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3935,8 +3935,8 @@
     ]
   },
   {
-    "book_path": "books\\19439. Атира (Влад Талтош - 6).txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19439. Атира (Влад Талтош - 6).txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Атира (Влад Талтош - 6)",
     "author": "Браст Стивен",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3946,8 +3946,8 @@
     ]
   },
   {
-    "book_path": "books\\19444. Атлантида Сумрачного Солнца.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19444. Атлантида Сумрачного Солнца.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Атлантида Сумрачного Солнца",
     "author": "Мистер Алекс",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3957,8 +3957,8 @@
     ]
   },
   {
-    "book_path": "books\\19445. Атлантида в наших мечтах.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19445. Атлантида в наших мечтах.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Атлантида в наших мечтах",
     "author": "Парнов Еремей",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3968,8 +3968,8 @@
     ]
   },
   {
-    "book_path": "books\\19446. Атлантида.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19446. Атлантида.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Атлантида",
     "author": "Струнина Мария",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3979,8 +3979,8 @@
     ]
   },
   {
-    "book_path": "books\\19447. Атланты, Кутгар.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19447. Атланты, Кутгар.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Атланты, Кутгар",
     "author": "Коуль Дж",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -3993,8 +3993,8 @@
     ]
   },
   {
-    "book_path": "books\\19448. Атланты, Воин.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19448. Атланты, Воин.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Атланты, Воин",
     "author": "Коуль Дж",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4007,8 +4007,8 @@
     ]
   },
   {
-    "book_path": "books\\19449. Атланты, боги и великаны.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19449. Атланты, боги и великаны.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Атланты, боги и великаны",
     "author": "Щербаков Владимир",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4018,8 +4018,8 @@
     ]
   },
   {
-    "book_path": "books\\19455. Аттила (Ричард Блейд, странствие 22).txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19455. Аттила (Ричард Блейд, странствие 22).txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Аттила (Ричард Блейд, странствие 22)",
     "author": "Лэрд Дж",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4029,8 +4029,8 @@
     ]
   },
   {
-    "book_path": "books\\19458. Аудиенция.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19458. Аудиенция.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Аудиенция",
     "author": "Штейнмюллер Карл-Хайнц",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4040,8 +4040,8 @@
     ]
   },
   {
-    "book_path": "books\\19459. Аукцион.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19459. Аукцион.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Аукцион",
     "author": "Сагабалян Руслан",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4051,8 +4051,8 @@
     ]
   },
   {
-    "book_path": "books\\19460. Аурентина (Летящая - 1).txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19460. Аурентина (Летящая - 1).txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Аурентина (Летящая - 1)",
     "author": "Дмитрук Андрей",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4062,8 +4062,8 @@
     ]
   },
   {
-    "book_path": "books\\19463. Аутосонидо.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19463. Аутосонидо.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Аутосонидо",
     "author": "Берковец Иржи",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4073,8 +4073,8 @@
     ]
   },
   {
-    "book_path": "books\\19464. Авангардист.txt",
-    "image_src": "images\\19464.jpg",
+    "book_path": "media/books\\19464. Авангардист.txt",
+    "image_src": "media/images\\19464.jpg",
     "name": "Авангардист",
     "author": "Бабенко Виталий",
     "image_url": "https://tululu.org/shots/19464.jpg",
@@ -4087,8 +4087,8 @@
     ]
   },
   {
-    "book_path": "books\\19465. Аванпост.txt",
-    "image_src": "images\\19465.jpg",
+    "book_path": "media/books\\19465. Аванпост.txt",
+    "image_src": "media/images\\19465.jpg",
     "name": "Аванпост",
     "author": "Златаров Святозар",
     "image_url": "https://tululu.org/shots/19465.jpg",
@@ -4098,8 +4098,8 @@
     ]
   },
   {
-    "book_path": "books\\19468. Авария Серебряной стрелы.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19468. Авария Серебряной стрелы.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Авария Серебряной стрелы",
     "author": "Росоховатский Игорь",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4109,8 +4109,8 @@
     ]
   },
   {
-    "book_path": "books\\19472. Аватара.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19472. Аватара.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Аватара",
     "author": "Андерсон Пол",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4122,8 +4122,8 @@
     ]
   },
   {
-    "book_path": "books\\19474. Авессалом.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19474. Авессалом.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Авессалом",
     "author": "Каттнер Генри",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4133,8 +4133,8 @@
     ]
   },
   {
-    "book_path": "books\\19477. Авось !!.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19477. Авось !!.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Авось !!",
     "author": "Маркелова Н",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4144,8 +4144,8 @@
     ]
   },
   {
-    "book_path": "books\\19479. Австралийский газонокосильщик.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19479. Австралийский газонокосильщик.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Австралийский газонокосильщик",
     "author": "Маркеев Олег",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4157,8 +4157,8 @@
     ]
   },
   {
-    "book_path": "books\\19481. Автобиография.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19481. Автобиография.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Автобиография",
     "author": "Овчинников Олег",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4168,8 +4168,8 @@
     ]
   },
   {
-    "book_path": "books\\19484. Автограф Гагарина.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19484. Автограф Гагарина.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Автограф Гагарина",
     "author": "Калабухин Сергей",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4181,8 +4181,8 @@
     ]
   },
   {
-    "book_path": "books\\19486. Автомат.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19486. Автомат.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Автомат",
     "author": "Варшавский Илья",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4192,8 +4192,8 @@
     ]
   },
   {
-    "book_path": "books\\19487. Автоматический сочинитель.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19487. Автоматический сочинитель.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Автоматический сочинитель",
     "author": "Даль Роальд",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4203,8 +4203,8 @@
     ]
   },
   {
-    "book_path": "books\\19488. Автоматический тигр.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19488. Автоматический тигр.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Автоматический тигр",
     "author": "Рид Кит",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4214,8 +4214,8 @@
     ]
   },
   {
-    "book_path": "books\\19489. Автоматизированный отель.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19489. Автоматизированный отель.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Автоматизированный отель",
     "author": "Вулф Том",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4225,8 +4225,8 @@
     ]
   },
   {
-    "book_path": "books\\19493. Автомобильная чума.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19493. Автомобильная чума.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Автомобильная чума",
     "author": "Буццати Дино",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4236,8 +4236,8 @@
     ]
   },
   {
-    "book_path": "books\\19496. Автор, консультант, редактор, корректор или интимный процесс творчества.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19496. Автор, консультант, редактор, корректор или интимный процесс творчества.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Автор, консультант, редактор, корректор или интимный процесс творчества",
     "author": "Мазин Александр Владимирович",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4247,8 +4247,8 @@
     ]
   },
   {
-    "book_path": "books\\19498. Автор о себе.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19498. Автор о себе.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Автор о себе",
     "author": "Гейман Александр",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4258,8 +4258,8 @@
     ]
   },
   {
-    "book_path": "books\\19499. Автор семян акации.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19499. Автор семян акации.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Автор семян акации",
     "author": "Ле Гуин Урсула",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4269,8 +4269,8 @@
     ]
   },
   {
-    "book_path": "books\\19501. Авторский вариант.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19501. Авторский вариант.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Авторский вариант",
     "author": "Вольский Марчин",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4280,8 +4280,8 @@
     ]
   },
   {
-    "book_path": "books\\19502. Авторское послесловие к мини-серии Немного об Идущих во Тьму.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19502. Авторское послесловие к мини-серии Немного об Идущих во Тьму.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Авторское послесловие к мини-серии Немного об Идущих во Тьму",
     "author": "Берендеев Кирилл",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4291,8 +4291,8 @@
     ]
   },
   {
-    "book_path": "books\\19504. Автострада запредельности.txt",
-    "image_src": "images\\19504.jpg",
+    "book_path": "media/books\\19504. Автострада запредельности.txt",
+    "image_src": "media/images\\19504.jpg",
     "name": "Автострада запредельности",
     "author": "Ченси Джон де",
     "image_url": "https://tululu.org/shots/19504.jpg",
@@ -4302,8 +4302,8 @@
     ]
   },
   {
-    "book_path": "books\\19505. Автозавры.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19505. Автозавры.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Автозавры",
     "author": "Либенци Эрманно",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4313,8 +4313,8 @@
     ]
   },
   {
-    "book_path": "books\\19506. Ах, Баттен, Баттен! (Баттон, Баттон).txt",
-    "image_src": "images\\19506.jpg",
+    "book_path": "media/books\\19506. Ах, Баттен, Баттен! (Баттон, Баттон).txt",
+    "image_src": "media/images\\19506.jpg",
     "name": "Ах, Баттен, Баттен! (Баттон, Баттон)",
     "author": "Азимов Айзек",
     "image_url": "https://tululu.org/shots/19506.jpg",
@@ -4324,8 +4324,8 @@
     ]
   },
   {
-    "book_path": "books\\19507. Ах, если бы.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19507. Ах, если бы.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Ах, если бы",
     "author": "Плонский Александр",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4335,8 +4335,8 @@
     ]
   },
   {
-    "book_path": "books\\19509. Ах, эта Джулия !.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19509. Ах, эта Джулия !.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Ах, эта Джулия !",
     "author": "Матесон Ричард",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4346,8 +4346,8 @@
     ]
   },
   {
-    "book_path": "books\\19512. Ахматовская культура или Не ложи мне на уши пасту !.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19512. Ахматовская культура или Не ложи мне на уши пасту !.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Ахматовская культура или Не ложи мне на уши пасту !",
     "author": "Михайличенко Елизавета",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4357,8 +4357,8 @@
     ]
   },
   {
-    "book_path": "books\\19515. Аз победиши или Между землёй и небом - война.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19515. Аз победиши или Между землёй и небом - война.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Аз победиши или Между землёй и небом - война",
     "author": "Стульник Сергей",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4370,8 +4370,8 @@
     ]
   },
   {
-    "book_path": "books\\19517. Азартные игры высшего порядка.txt",
-    "image_src": "images\\19517.jpg",
+    "book_path": "media/books\\19517. Азартные игры высшего порядка.txt",
+    "image_src": "media/images\\19517.jpg",
     "name": "Азартные игры высшего порядка",
     "author": "Симонова Мария",
     "image_url": "https://tululu.org/shots/19517.jpg",
@@ -4389,8 +4389,8 @@
     ]
   },
   {
-    "book_path": "books\\19518. Азатот.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19518. Азатот.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Азатот",
     "author": "Берендеев Кирилл",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4400,8 +4400,8 @@
     ]
   },
   {
-    "book_path": "books\\19519. Азазел (рассказы) (-).txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19519. Азазел (рассказы) (-).txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Азазел (рассказы) (-)",
     "author": "Азимов Айзек",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4411,8 +4411,8 @@
     ]
   },
   {
-    "book_path": "books\\19520. Азазел (рассказы).txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19520. Азазел (рассказы).txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Азазел (рассказы)",
     "author": "Азимов Айзек",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4424,8 +4424,8 @@
     ]
   },
   {
-    "book_path": "books\\19521. Азиатский берег.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19521. Азиатский берег.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Азиатский берег",
     "author": "Диш Томас М",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4435,8 +4435,8 @@
     ]
   },
   {
-    "book_path": "books\\19523. Азы.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19523. Азы.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Азы",
     "author": "Росоховатский Игорь",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4446,8 +4446,8 @@
     ]
   },
   {
-    "book_path": "books\\19526. БРАКОНЬЕРЫ.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19526. БРАКОНЬЕРЫ.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "БРАКОНЬЕРЫ",
     "author": "Стальнов Илья",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4460,8 +4460,8 @@
     ]
   },
   {
-    "book_path": "books\\19527. Б О Г.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19527. Б О Г.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Б О Г",
     "author": "Пурик Д",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4471,8 +4471,8 @@
     ]
   },
   {
-    "book_path": "books\\19528. Баалимский вопрос.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19528. Баалимский вопрос.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Баалимский вопрос",
     "author": "Дэниэлс Брюс",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4482,8 +4482,8 @@
     ]
   },
   {
-    "book_path": "books\\19531. Баба Яга.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19531. Баба Яга.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Баба Яга",
     "author": "Аливердиев Андрей",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4493,8 +4493,8 @@
     ]
   },
   {
-    "book_path": "books\\19532. Бабочка.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19532. Бабочка.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Бабочка",
     "author": "Уэллс Герберт Джордж",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4506,8 +4506,8 @@
     ]
   },
   {
-    "book_path": "books\\19533. Бабочки.txt",
-    "image_src": "images\\19533.jpg",
+    "book_path": "media/books\\19533. Бабочки.txt",
+    "image_src": "media/images\\19533.jpg",
     "name": "Бабочки",
     "author": "Федоров Игорь",
     "image_url": "https://tululu.org/shots/19533.jpg",
@@ -4517,8 +4517,8 @@
     ]
   },
   {
-    "book_path": "books\\19535. Бабушка.txt",
-    "image_src": "images\\nopic.gif",
+    "book_path": "media/books\\19535. Бабушка.txt",
+    "image_src": "media/images\\nopic.gif",
     "name": "Бабушка",
     "author": "Эвентов Вадим",
     "image_url": "https://tululu.org/images/nopic.gif",
@@ -4528,8 +4528,8 @@
     ]
   },
   {
-    "book_path": "books\\19540. Багряная планета.txt",
-    "image_src": "images\\19540.jpg",
+    "book_path": "media/books\\19540. Багряная планета.txt",
+    "image_src": "media/images\\19540.jpg",
     "name": "Багряная планета",
     "author": "Жемайтис Сергей",
     "image_url": "https://tululu.org/shots/19540.jpg",

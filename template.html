@@ -6,10 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="../js/bootstrap.min.css">
+    <link rel="stylesheet" href="../static/js/bootstrap.min.css">
 
     <title>Online Library</title>
-    <link rel="icon" href="../favicon.png" type="image/png">
+    <link rel="icon" href="../static/favicon.png" type="image/png">
 
   </head>
   <body>
@@ -41,7 +41,7 @@
               <div class="card mb-3" style="max-width: 540px;">
                 <div class="row no-gutters">
                   <div class="col-md-4">
-                    <img src="../{{book.image_src}}" class="img-fluid" alt="{{book.name}}">
+                    <img src="../{{book.image_src|urlencode}}" class="img-fluid" alt="{{book.name}}">
                   </div>
                   <div class="col-md-8">
                     <div class="card-body">
@@ -55,8 +55,7 @@
                       </div>
                       <br/>
 
-                      <a href="../{{book.book_path}}" target="_blank">Читать</a>
-                      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                      <a href="../{{book.book_path|urlencode}}" target="_blank">Читать</a>
                     </div>
                   </div>
                 </div>
@@ -70,8 +69,8 @@
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="../js/jquery-3.3.1.slim.min.js"></script>
-    <script src="../js/popper.min.js"></script>
-    <script src="../js/bootstrap.min.js"></script>
+    <script src="../static/js/jquery-3.3.1.slim.min.js"></script>
+    <script src="../static/js/popper.min.js"></script>
+    <script src="../static/js/bootstrap.min.js"></script>
   </body>
 </html>
