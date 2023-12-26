@@ -158,5 +158,5 @@ if __name__ == '__main__':
             )
 
     os.makedirs(os.path.dirname(args.dest_file) or "/", exist_ok=True)
-    with open(args.dest_file, "w") as f:
+    with open(args.dest_file, "w", encoding="utf8") as f:
         json.dump(downloaded_books, f, ensure_ascii=False, indent=2)
