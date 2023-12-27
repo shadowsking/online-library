@@ -28,9 +28,9 @@ def on_reload(dest_file=None, pages_folder=None):
         previous_page = None
         next_page = None
         if page != 1:
-            previous_page = os.path.join(pages_folder, f"index{page - 1}.html")
+            previous_page = "/".join([pages_folder, f"index{page - 1}.html"])
         if page != pages_count:
-            next_page = os.path.join(pages_folder, f"index{page + 1}.html")
+            next_page = "/".join([pages_folder, f"index{page + 1}.html"])
 
         pages = {}
         start_num_page = max(1, page - display_pages)
