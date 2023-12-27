@@ -124,7 +124,7 @@ if __name__ == '__main__':
             file_path = None
             if not args.skip_txt:
                 book_name = book.get("name")
-                file_path = os.path.join(args.book_folder, f"{book_id}. {book_name}.txt")
+                file_path = "/".join([args.book_folder, f"{book_id}. {book_name}.txt"])
                 os.makedirs(args.book_folder, exist_ok=True)
                 try:
                     download_file(f"https://tululu.org/txt.php", file_path, params={"id": book_id})
@@ -139,7 +139,7 @@ if __name__ == '__main__':
             if not args.skip_imgs:
                 os.makedirs(args.image_folder, exist_ok=True)
                 image_name = os.path.basename(urlsplit(unquote(book.get("image_url"))).path)
-                image_path = os.path.join(args.image_folder, image_name)
+                image_path = "/".join([args.image_folder, image_name])
                 if not os.path.exists(image_path):
                     try:
                         download_file(book.get("image_url"), image_path)
@@ -151,8 +151,8 @@ if __name__ == '__main__':
 
             downloaded_books.append(
                 dict(
-                    book_path=file_path.replace("\\", "/"),
-                    image_src=image_path.replace("\\", "/"),
+                    book_path=file_path,
+                    image_src=image_path,
                     **book
                 )
             )

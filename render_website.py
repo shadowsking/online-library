@@ -11,7 +11,7 @@ COUNT_BOOKS_COLUMNS = 2
 
 
 def on_reload(dest_file=None, pages_folder=None):
-    with open(dest_file, "r") as f:
+    with open(dest_file, "r", encoding="utf8") as f:
         books = json.load(f)
 
     env = Environment(
@@ -34,9 +34,9 @@ def on_reload(dest_file=None, pages_folder=None):
 
         pages = {}
         start_num_page = max(1, page - display_pages)
-        end_num_page = min(pages_count, page + display_pages)
+        end_num_page = min(pages_count, page + display_pages) + 1
         for num_page in range(start_num_page, end_num_page):
-            pages[num_page] = os.path.join(pages_folder, f"index{num_page}.html")
+            pages[num_page] = "/".join([pages_folder, f"index{num_page}.html"])
 
         rendered_page = template.render(
             iter_books=chunked(iter_books, COUNT_BOOKS_COLUMNS),
