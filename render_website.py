@@ -7,7 +7,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 from livereload import Server
 from more_itertools import chunked
 
-COUNT_BOOKS_COLUMNS = 2
+BOOKS_COLUMNS_COUNT = 2
 
 
 def on_reload(dest_file=None, pages_folder=None):
@@ -39,7 +39,7 @@ def on_reload(dest_file=None, pages_folder=None):
             pages[num_page] = "/".join([pages_folder, f"index{num_page}.html"])
 
         rendered_page = template.render(
-            iter_books=chunked(iter_books, COUNT_BOOKS_COLUMNS),
+            iter_books=chunked(iter_books, BOOKS_COLUMNS_COUNT),
             pages=pages,
             current_page=page,
             previous_page=previous_page,
